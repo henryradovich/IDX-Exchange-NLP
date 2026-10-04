@@ -1,0 +1,337 @@
+{
+  "version": "1.0",
+  "description": "Sample real-estate user queries with intent labels for Week 1 NLP development.",
+  "intent_labels": [
+    "property_features",
+    "location",
+    "rooms",
+    "exterior",
+    "amenities",
+    "condition",
+    "price",
+    "listing_status"
+  ],
+  "query_count": 64,
+  "queries": [
+    {
+      "id": 1,
+      "query": "Find homes with hardwood floors and a fireplace.",
+      "intent": "property_features"
+    },
+    {
+      "id": 2,
+      "query": "Show me listings with granite countertops.",
+      "intent": "property_features"
+    },
+    {
+      "id": 3,
+      "query": "I want a house with an open floor plan.",
+      "intent": "property_features"
+    },
+    {
+      "id": 4,
+      "query": "Find homes with vaulted ceilings.",
+      "intent": "property_features"
+    },
+    {
+      "id": 5,
+      "query": "Show properties with stainless steel appliances.",
+      "intent": "property_features"
+    },
+    {
+      "id": 6,
+      "query": "Find houses with lots of natural light.",
+      "intent": "property_features"
+    },
+    {
+      "id": 7,
+      "query": "I want a home with a kitchen island.",
+      "intent": "property_features"
+    },
+    {
+      "id": 8,
+      "query": "Show me houses with a fireplace and high ceilings.",
+      "intent": "property_features"
+    },
+    {
+      "id": 9,
+      "query": "Find homes near downtown.",
+      "intent": "location"
+    },
+    {
+      "id": 10,
+      "query": "Show me properties close to parks.",
+      "intent": "location"
+    },
+    {
+      "id": 11,
+      "query": "I want a house near shopping and restaurants.",
+      "intent": "location"
+    },
+    {
+      "id": 12,
+      "query": "Find listings with mountain views.",
+      "intent": "location"
+    },
+    {
+      "id": 13,
+      "query": "Show homes on a cul-de-sac.",
+      "intent": "location"
+    },
+    {
+      "id": 14,
+      "query": "Find properties in a quiet neighborhood.",
+      "intent": "location"
+    },
+    {
+      "id": 15,
+      "query": "I want something close to public transportation.",
+      "intent": "location"
+    },
+    {
+      "id": 16,
+      "query": "Show listings within walking distance of amenities.",
+      "intent": "location"
+    },
+    {
+      "id": 17,
+      "query": "Find homes with four bedrooms.",
+      "intent": "rooms"
+    },
+    {
+      "id": 18,
+      "query": "Show houses with a home office.",
+      "intent": "rooms"
+    },
+    {
+      "id": 19,
+      "query": "I need a finished basement.",
+      "intent": "rooms"
+    },
+    {
+      "id": 20,
+      "query": "Find properties with a primary suite.",
+      "intent": "rooms"
+    },
+    {
+      "id": 21,
+      "query": "Show homes with a dedicated laundry room.",
+      "intent": "rooms"
+    },
+    {
+      "id": 22,
+      "query": "I want a guest suite.",
+      "intent": "rooms"
+    },
+    {
+      "id": 23,
+      "query": "Find homes with a large living room.",
+      "intent": "rooms"
+    },
+    {
+      "id": 24,
+      "query": "Show listings with a formal dining room.",
+      "intent": "rooms"
+    },
+    {
+      "id": 25,
+      "query": "Find homes with a large backyard.",
+      "intent": "exterior"
+    },
+    {
+      "id": 26,
+      "query": "Show properties with a covered patio.",
+      "intent": "exterior"
+    },
+    {
+      "id": 27,
+      "query": "I want a house with a deck.",
+      "intent": "exterior"
+    },
+    {
+      "id": 28,
+      "query": "Find listings with a fenced yard.",
+      "intent": "exterior"
+    },
+    {
+      "id": 29,
+      "query": "Show me homes with a front porch.",
+      "intent": "exterior"
+    },
+    {
+      "id": 30,
+      "query": "I want a property with mature trees.",
+      "intent": "exterior"
+    },
+    {
+      "id": 31,
+      "query": "Find houses with an attached garage.",
+      "intent": "exterior"
+    },
+    {
+      "id": 32,
+      "query": "Show properties with outdoor living space.",
+      "intent": "exterior"
+    },
+    {
+      "id": 33,
+      "query": "Find homes with a community pool.",
+      "intent": "amenities"
+    },
+    {
+      "id": 34,
+      "query": "Show properties with a fitness center.",
+      "intent": "amenities"
+    },
+    {
+      "id": 35,
+      "query": "I want access to a clubhouse.",
+      "intent": "amenities"
+    },
+    {
+      "id": 36,
+      "query": "Find listings with a hot tub.",
+      "intent": "amenities"
+    },
+    {
+      "id": 37,
+      "query": "Show homes with smart home features.",
+      "intent": "amenities"
+    },
+    {
+      "id": 38,
+      "query": "Find properties with EV charging.",
+      "intent": "amenities"
+    },
+    {
+      "id": 39,
+      "query": "I want a neighborhood with walking trails.",
+      "intent": "amenities"
+    },
+    {
+      "id": 40,
+      "query": "Show communities with a dog park.",
+      "intent": "amenities"
+    },
+    {
+      "id": 41,
+      "query": "Find move-in ready homes.",
+      "intent": "condition"
+    },
+    {
+      "id": 42,
+      "query": "Show recently remodeled properties.",
+      "intent": "condition"
+    },
+    {
+      "id": 43,
+      "query": "I want a newly constructed home.",
+      "intent": "condition"
+    },
+    {
+      "id": 44,
+      "query": "Find homes with a new roof.",
+      "intent": "condition"
+    },
+    {
+      "id": 45,
+      "query": "Show fully renovated houses.",
+      "intent": "condition"
+    },
+    {
+      "id": 46,
+      "query": "Find properties that need updating.",
+      "intent": "condition"
+    },
+    {
+      "id": 47,
+      "query": "Show fixer-uppers.",
+      "intent": "condition"
+    },
+    {
+      "id": 48,
+      "query": "I want a well-maintained home.",
+      "intent": "condition"
+    },
+    {
+      "id": 49,
+      "query": "Show homes under $500,000.",
+      "intent": "price"
+    },
+    {
+      "id": 50,
+      "query": "Find properties between $400,000 and $600,000.",
+      "intent": "price"
+    },
+    {
+      "id": 51,
+      "query": "What listings have had a recent price reduction?",
+      "intent": "price"
+    },
+    {
+      "id": 52,
+      "query": "Find homes below market value.",
+      "intent": "price"
+    },
+    {
+      "id": 53,
+      "query": "Show the least expensive three-bedroom homes.",
+      "intent": "price"
+    },
+    {
+      "id": 54,
+      "query": "Find properties with low HOA fees.",
+      "intent": "price"
+    },
+    {
+      "id": 55,
+      "query": "Show homes with no HOA.",
+      "intent": "price"
+    },
+    {
+      "id": 56,
+      "query": "What properties are listed below $750,000?",
+      "intent": "price"
+    },
+    {
+      "id": 57,
+      "query": "Show active listings.",
+      "intent": "listing_status"
+    },
+    {
+      "id": 58,
+      "query": "Find homes that are pending.",
+      "intent": "listing_status"
+    },
+    {
+      "id": 59,
+      "query": "Which properties are under contract?",
+      "intent": "listing_status"
+    },
+    {
+      "id": 60,
+      "query": "Show homes that came back on the market.",
+      "intent": "listing_status"
+    },
+    {
+      "id": 61,
+      "query": "Find recently sold properties.",
+      "intent": "listing_status"
+    },
+    {
+      "id": 62,
+      "query": "Show new listings.",
+      "intent": "listing_status"
+    },
+    {
+      "id": 63,
+      "query": "Which properties are contingent?",
+      "intent": "listing_status"
+    },
+    {
+      "id": 64,
+      "query": "Find homes that are still available.",
+      "intent": "listing_status"
+    }
+  ]
+}

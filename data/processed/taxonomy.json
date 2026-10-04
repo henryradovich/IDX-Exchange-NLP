@@ -1,1004 +1,1422 @@
 {
+  "version": "1.0",
+  "source": "data/processed/listing_sample.csv",
+  "listing_count": 1000,
+  "remarks_analyzed": 1000,
+  "term_count": 200,
+  "coverage": 0.991,
+  "coverage_percent": 99.1,
+  "categories": {
+    "Amenities": 22,
+    "Condition": 22,
+    "Exterior": 27,
+    "Interior": 27,
+    "Location": 23,
+    "Other": 10,
+    "Pricing & Transaction": 18,
+    "Property Features": 30,
+    "Rooms": 21
+  },
   "terms": [
     {
-      "id": 1,
-      "term": ", and",
-      "count": 3342
+      "term": "kitchen",
+      "category": "Rooms",
+      "count": 985,
+      "source": "category_match",
+      "id": 1
     },
     {
-      "id": 2,
-      "term": ". the",
-      "count": 1871
+      "term": "bedroom",
+      "category": "Rooms",
+      "count": 789,
+      "source": "category_match",
+      "id": 2
     },
     {
-      "id": 3,
-      "term": "and a",
-      "count": 1116
+      "term": "bedrooms",
+      "category": "Rooms",
+      "count": 661,
+      "source": "category_match",
+      "id": 3
     },
     {
-      "id": 4,
-      "term": ", a",
-      "count": 923
+      "term": "garage",
+      "category": "Rooms",
+      "count": 591,
+      "source": "category_match",
+      "id": 4
     },
     {
-      "id": 5,
-      "term": ", this",
-      "count": 883
+      "term": "bathroom",
+      "category": "Rooms",
+      "count": 519,
+      "source": "category_match",
+      "id": 5
     },
     {
-      "id": 6,
-      "term": "in the",
-      "count": 692
+      "term": "pool",
+      "category": "Exterior",
+      "count": 458,
+      "source": "category_match",
+      "id": 6
     },
     {
-      "id": 7,
-      "term": "with a",
-      "count": 660
+      "term": "updated",
+      "category": "Condition",
+      "count": 393,
+      "source": "category_match",
+      "id": 7
     },
     {
-      "id": 8,
-      "term": ", the",
-      "count": 652
+      "term": "bathrooms",
+      "category": "Rooms",
+      "count": 392,
+      "source": "category_match",
+      "id": 8
     },
     {
-      "id": 9,
-      "term": "to the",
-      "count": 630
+      "term": "backyard",
+      "category": "Exterior",
+      "count": 368,
+      "source": "category_match",
+      "id": 9
     },
     {
-      "id": 10,
-      "term": "the home",
-      "count": 627
+      "term": "patio",
+      "category": "Exterior",
+      "count": 355,
+      "source": "category_match",
+      "id": 10
     },
     {
-      "id": 11,
-      "term": "of the",
-      "count": 572
+      "term": "office",
+      "category": "Rooms",
+      "count": 354,
+      "source": "category_match",
+      "id": 11
     },
     {
-      "id": 12,
-      "term": ", or",
-      "count": 567
-    },
-    {
-      "id": 13,
-      "term": ". this",
-      "count": 497
-    },
-    {
-      "id": 14,
-      "term": ". a",
-      "count": 467
-    },
-    {
-      "id": 15,
-      "term": "a private",
-      "count": 407
-    },
-    {
-      "id": 16,
-      "term": "access to",
-      "count": 378
-    },
-    {
-      "id": 17,
-      "term": "is a",
-      "count": 365
-    },
-    {
-      "id": 18,
-      "term": "this home",
-      "count": 355
-    },
-    {
-      "id": 19,
       "term": "primary suite",
-      "count": 339
+      "category": "Interior",
+      "count": 339,
+      "source": "category_match",
+      "id": 12
     },
     {
-      "id": 20,
+      "term": "fireplace",
+      "category": "Property Features",
+      "count": 332,
+      "source": "category_match",
+      "id": 13
+    },
+    {
+      "term": "car garage",
+      "category": "Exterior",
+      "count": 328,
+      "source": "category_match",
+      "id": 14
+    },
+    {
       "term": "floor plan",
-      "count": 318
+      "category": "Property Features",
+      "count": 318,
+      "source": "category_match",
+      "id": 15
     },
     {
-      "id": 21,
-      "term": "welcome to",
-      "count": 312
-    },
-    {
-      "id": 22,
-      "term": "shopping ,",
-      "count": 307
-    },
-    {
-      "id": 23,
-      "term": "room ,",
-      "count": 304
-    },
-    {
-      "id": 24,
-      "term": ", while",
-      "count": 303
-    },
-    {
-      "id": 25,
-      "term": "space ,",
-      "count": 302
-    },
-    {
-      "id": 26,
-      "term": "dining ,",
-      "count": 295
-    },
-    {
-      "id": 27,
       "term": "living room",
-      "count": 292
+      "category": "Interior",
+      "count": 293,
+      "source": "category_match",
+      "id": 16
     },
     {
-      "id": 28,
-      "term": "from the",
-      "count": 282
+      "term": "laundry",
+      "category": "Rooms",
+      "count": 285,
+      "source": "category_match",
+      "id": 17
     },
     {
-      "id": 29,
       "term": "living space",
-      "count": 281
+      "category": "Interior",
+      "count": 282,
+      "source": "category_match",
+      "id": 18
     },
     {
-      "id": 30,
-      "term": "home offers",
-      "count": 279
-    },
-    {
-      "id": 31,
-      "term": "and the",
-      "count": 277
-    },
-    {
-      "id": 32,
-      "term": ", dining",
-      "count": 275
-    },
-    {
-      "id": 33,
-      "term": "and an",
-      "count": 275
-    },
-    {
-      "id": 34,
-      "term": "for a",
-      "count": 270
-    },
-    {
-      "id": 35,
       "term": "natural light",
-      "count": 270
+      "category": "Property Features",
+      "count": 270,
+      "source": "category_match",
+      "id": 19
     },
     {
-      "id": 36,
-      "term": "one of",
-      "count": 264
-    },
-    {
-      "id": 37,
-      "term": ", with",
-      "count": 260
-    },
-    {
-      "id": 38,
-      "term": "opportunity to",
-      "count": 253
-    },
-    {
-      "id": 39,
-      "term": "the property",
-      "count": 251
-    },
-    {
-      "id": 40,
-      "term": "offers a",
-      "count": 250
-    },
-    {
-      "id": 41,
-      "term": "a spacious",
-      "count": 248
-    },
-    {
-      "id": 42,
-      "term": "to a",
-      "count": 243
-    },
-    {
-      "id": 43,
-      "term": "features a",
-      "count": 239
-    },
-    {
-      "id": 44,
-      "term": "countertops ,",
-      "count": 236
-    },
-    {
-      "id": 45,
-      "term": "the kitchen",
-      "count": 230
-    },
-    {
-      "id": 46,
-      "term": "bedrooms ,",
-      "count": 229
-    },
-    {
-      "id": 47,
-      "term": "on the",
-      "count": 228
-    },
-    {
-      "id": 48,
-      "term": ", creating",
-      "count": 225
-    },
-    {
-      "id": 49,
-      "term": "perfect for",
-      "count": 225
-    },
-    {
-      "id": 50,
-      "term": "\u2019 s",
-      "count": 224
-    },
-    {
-      "id": 51,
-      "term": "area ,",
-      "count": 222
-    },
-    {
-      "id": 52,
-      "term": "ideal for",
-      "count": 219
-    },
-    {
-      "id": 53,
-      "term": "living and",
-      "count": 219
-    },
-    {
-      "id": 54,
-      "term": "a large",
-      "count": 218
-    },
-    {
-      "id": 55,
-      "term": "entertaining .",
-      "count": 217
-    },
-    {
-      "id": 56,
-      "term": "home is",
-      "count": 217
-    },
-    {
-      "id": 57,
-      "term": ", including",
-      "count": 215
-    },
-    {
-      "id": 58,
-      "term": "cabinetry ,",
-      "count": 212
-    },
-    {
-      "id": 59,
-      "term": ". welcome",
-      "count": 212
-    },
-    {
-      "id": 60,
-      "term": "the perfect",
-      "count": 211
-    },
-    {
-      "id": 61,
-      "term": "bathrooms ,",
-      "count": 211
-    },
-    {
-      "id": 62,
-      "term": "in a",
-      "count": 210
-    },
-    {
-      "id": 63,
-      "term": "appliances ,",
-      "count": 208
-    },
-    {
-      "id": 64,
-      "term": "living .",
-      "count": 204
-    },
-    {
-      "id": 65,
-      "term": "a home",
-      "count": 203
-    },
-    {
-      "id": 66,
-      "term": "on a",
-      "count": 199
-    },
-    {
-      "id": 67,
-      "term": "the main",
-      "count": 192
-    },
-    {
-      "id": 68,
-      "term": "located in",
-      "count": 189
-    },
-    {
-      "id": 69,
-      "term": "flooring ,",
-      "count": 188
-    },
-    {
-      "id": 70,
-      "term": "while the",
-      "count": 187
-    },
-    {
-      "id": 71,
       "term": "home office",
-      "count": 185
+      "category": "Interior",
+      "count": 189,
+      "source": "category_match",
+      "id": 20
     },
     {
-      "id": 72,
       "term": "dining area",
-      "count": 184
+      "category": "Interior",
+      "count": 186,
+      "source": "category_match",
+      "id": 21
     },
     {
-      "id": 73,
-      "term": "plenty of",
-      "count": 184
-    },
-    {
-      "id": 74,
-      "term": "bedrooms and",
-      "count": 183
-    },
-    {
-      "id": 75,
-      "term": "designed for",
-      "count": 183
-    },
-    {
-      "id": 76,
-      "term": ", offering",
-      "count": 179
-    },
-    {
-      "id": 77,
-      "term": "kitchen ,",
-      "count": 179
-    },
-    {
-      "id": 78,
-      "term": ", an",
-      "count": 178
-    },
-    {
-      "id": 79,
-      "term": "heart of",
-      "count": 177
-    },
-    {
-      "id": 80,
-      "term": "space .",
-      "count": 177
-    },
-    {
-      "id": 81,
       "term": "square feet",
-      "count": 177
+      "category": "Other",
+      "count": 177,
+      "source": "sample_ngram",
+      "id": 22
     },
     {
-      "id": 82,
-      "term": "office ,",
-      "count": 176
+      "term": "sq ft",
+      "category": "Other",
+      "count": 175,
+      "source": "sample_ngram",
+      "id": 23
     },
     {
-      "id": 83,
-      "term": "the living",
-      "count": 176
+      "term": "shopping dining",
+      "category": "Location",
+      "count": 173,
+      "source": "category_match",
+      "id": 24
     },
     {
-      "id": 84,
-      "term": "space for",
-      "count": 175
-    },
-    {
-      "id": 85,
-      "term": ". additional",
-      "count": 174
-    },
-    {
-      "id": 86,
-      "term": "comfort ,",
-      "count": 174
-    },
-    {
-      "id": 87,
-      "term": "a rare",
-      "count": 174
-    },
-    {
-      "id": 88,
-      "term": "the heart",
-      "count": 173
-    },
-    {
-      "id": 89,
-      "term": "walk-in closet",
-      "count": 170
-    },
-    {
-      "id": 90,
-      "term": ", shopping",
-      "count": 169
-    },
-    {
-      "id": 91,
-      "term": "this is",
-      "count": 169
-    },
-    {
-      "id": 92,
       "term": "conveniently located",
-      "count": 168
+      "category": "Location",
+      "count": 169,
+      "source": "category_match",
+      "id": 25
     },
     {
-      "id": 93,
-      "term": "the primary",
-      "count": 168
+      "term": "deck",
+      "category": "Exterior",
+      "count": 169,
+      "source": "category_match",
+      "id": 26
     },
     {
-      "id": 94,
-      "term": "pool ,",
-      "count": 167
-    },
-    {
-      "id": 95,
-      "term": "home ,",
-      "count": 166
-    },
-    {
-      "id": 96,
-      "term": "the spacious",
-      "count": 165
-    },
-    {
-      "id": 97,
-      "term": "this property",
-      "count": 164
-    },
-    {
-      "id": 98,
-      "term": ". enjoy",
-      "count": 162
-    },
-    {
-      "id": 99,
-      "term": "living ,",
-      "count": 161
-    },
-    {
-      "id": 100,
-      "term": "has been",
-      "count": 160
-    },
-    {
-      "id": 101,
       "term": "everyday living",
-      "count": 158
+      "category": "Other",
+      "count": 160,
+      "source": "sample_ngram",
+      "id": 27
     },
     {
-      "id": 102,
-      "term": ". step",
-      "count": 158
-    },
-    {
-      "id": 103,
-      "term": "to this",
-      "count": 156
-    },
-    {
-      "id": 104,
-      "term": "ceilings ,",
-      "count": 155
-    },
-    {
-      "id": 105,
-      "term": "its own",
-      "count": 154
-    },
-    {
-      "id": 106,
-      "term": "at the",
-      "count": 154
-    },
-    {
-      "id": 107,
-      "term": "throughout .",
-      "count": 154
-    },
-    {
-      "id": 108,
-      "term": "schools ,",
-      "count": 153
-    },
-    {
-      "id": 109,
-      "term": "your own",
-      "count": 152
-    },
-    {
-      "id": 110,
-      "term": "as a",
-      "count": 152
-    },
-    {
-      "id": 111,
-      "term": "home .",
-      "count": 151
-    },
-    {
-      "id": 112,
-      "term": "home features",
-      "count": 150
-    },
-    {
-      "id": 113,
-      "term": "including a",
-      "count": 150
-    },
-    {
-      "id": 114,
-      "term": ", you",
-      "count": 149
-    },
-    {
-      "id": 115,
-      "term": "in one",
-      "count": 149
-    },
-    {
-      "id": 116,
-      "term": "stainless steel",
-      "count": 148
-    },
-    {
-      "id": 117,
-      "term": "located near",
-      "count": 147
-    },
-    {
-      "id": 118,
-      "term": "with an",
-      "count": 146
-    },
-    {
-      "id": 119,
-      "term": "guests ,",
-      "count": 146
-    },
-    {
-      "id": 120,
-      "term": "and entertaining",
-      "count": 144
-    },
-    {
-      "id": 121,
-      "term": ", new",
-      "count": 144
-    },
-    {
-      "id": 122,
-      "term": "fireplace ,",
-      "count": 143
-    },
-    {
-      "id": 123,
-      "term": "minutes from",
-      "count": 140
-    },
-    {
-      "id": 124,
-      "term": "room with",
-      "count": 140
-    },
-    {
-      "id": 125,
-      "term": "parks ,",
-      "count": 140
-    },
-    {
-      "id": 126,
-      "term": ". with",
-      "count": 139
-    },
-    {
-      "id": 127,
-      "term": "includes a",
-      "count": 137
-    },
-    {
-      "id": 128,
-      "term": "this beautifully",
-      "count": 136
-    },
-    {
-      "id": 129,
-      "term": "privacy ,",
-      "count": 136
-    },
-    {
-      "id": 130,
-      "term": "offers the",
-      "count": 135
-    },
-    {
-      "id": 131,
-      "term": "creating a",
-      "count": 131
-    },
-    {
-      "id": 132,
-      "term": ". located",
-      "count": 131
-    },
-    {
-      "id": 133,
-      "term": "views ,",
-      "count": 131
-    },
-    {
-      "id": 134,
-      "term": "enjoy the",
-      "count": 131
-    },
-    {
-      "id": 135,
-      "term": "pool and",
-      "count": 130
-    },
-    {
-      "id": 136,
-      "term": "and dining",
-      "count": 128
-    },
-    {
-      "id": 137,
-      "term": "thoughtfully designed",
-      "count": 128
-    },
-    {
-      "id": 138,
-      "term": "to own",
-      "count": 128
-    },
-    {
-      "id": 139,
-      "term": "family room",
-      "count": 127
-    },
-    {
-      "id": 140,
-      "term": "living area",
-      "count": 127
-    },
-    {
-      "id": 141,
-      "term": "complete with",
-      "count": 126
-    },
-    {
-      "id": 142,
       "term": "steel appliances",
-      "count": 126
+      "category": "Other",
+      "count": 156,
+      "source": "sample_ngram",
+      "id": 28
     },
     {
-      "id": 143,
-      "term": "into the",
-      "count": 126
+      "term": "s most",
+      "category": "Other",
+      "count": 149,
+      "source": "sample_ngram",
+      "id": 29
     },
     {
-      "id": 144,
-      "term": "for entertaining",
-      "count": 124
+      "term": "located near",
+      "category": "Other",
+      "count": 148,
+      "source": "sample_ngram",
+      "id": 30
     },
     {
-      "id": 145,
-      "term": "laundry room",
-      "count": 124
+      "term": "stainless steel",
+      "category": "Property Features",
+      "count": 148,
+      "source": "category_match",
+      "id": 31
     },
     {
-      "id": 146,
-      "term": "easy access",
-      "count": 122
+      "term": "resort style",
+      "category": "Other",
+      "count": 146,
+      "source": "sample_ngram",
+      "id": 32
     },
     {
-      "id": 147,
+      "term": "hoa",
+      "category": "Amenities",
+      "count": 143,
+      "source": "category_match",
+      "id": 33
+    },
+    {
+      "term": "landscaping",
+      "category": "Exterior",
+      "count": 139,
+      "source": "category_match",
+      "id": 34
+    },
+    {
+      "term": "bedroom bath",
+      "category": "Other",
+      "count": 136,
+      "source": "sample_ngram",
+      "id": 35
+    },
+    {
+      "term": "downtown",
+      "category": "Location",
+      "count": 135,
+      "source": "category_match",
+      "id": 36
+    },
+    {
       "term": "just minutes",
-      "count": 122
+      "category": "Other",
+      "count": 135,
+      "source": "sample_ngram",
+      "id": 37
     },
     {
-      "id": 148,
-      "term": "to enjoy",
-      "count": 122
+      "term": "outdoor living",
+      "category": "Exterior",
+      "count": 134,
+      "source": "category_match",
+      "id": 38
     },
     {
-      "id": 149,
-      "term": "garage ,",
-      "count": 120
+      "term": "family room",
+      "category": "Interior",
+      "count": 132,
+      "source": "category_match",
+      "id": 39
     },
     {
-      "id": 150,
-      "term": "home in",
-      "count": 119
+      "term": "thoughtfully designed",
+      "category": "Other",
+      "count": 130,
+      "source": "sample_ngram",
+      "id": 40
     },
     {
-      "id": 151,
-      "term": ". conveniently",
-      "count": 118
+      "term": "balcony",
+      "category": "Exterior",
+      "count": 128,
+      "source": "category_match",
+      "id": 41
     },
     {
-      "id": 152,
-      "term": "throughout the",
-      "count": 118
+      "term": "stainless steel appliances",
+      "category": "Property Features",
+      "count": 128,
+      "source": "category_match",
+      "id": 42
     },
     {
-      "id": 153,
-      "term": "spa ,",
-      "count": 118
+      "term": "laundry room",
+      "category": "Interior",
+      "count": 126,
+      "source": "category_match",
+      "id": 43
     },
     {
-      "id": 154,
-      "term": "feet of",
-      "count": 118
+      "term": "easy access",
+      "category": "Location",
+      "count": 123,
+      "source": "category_match",
+      "id": 44
     },
     {
-      "id": 155,
-      "term": "along with",
-      "count": 117
-    },
-    {
-      "id": 156,
-      "term": "entertaining ,",
-      "count": 117
-    },
-    {
-      "id": 157,
-      "term": "windows ,",
-      "count": 117
-    },
-    {
-      "id": 158,
-      "term": "include a",
-      "count": 116
-    },
-    {
-      "id": 159,
-      "term": "throughout ,",
-      "count": 116
-    },
-    {
-      "id": 160,
-      "term": "views .",
-      "count": 116
-    },
-    {
-      "id": 161,
-      "term": "light ,",
-      "count": 116
-    },
-    {
-      "id": 162,
-      "term": "blend of",
-      "count": 116
-    },
-    {
-      "id": 163,
-      "term": "restaurants ,",
-      "count": 115
-    },
-    {
-      "id": 164,
-      "term": "with its",
-      "count": 113
-    },
-    {
-      "id": 165,
-      "term": "lighting ,",
-      "count": 113
-    },
-    {
-      "id": 166,
-      "term": "with the",
-      "count": 113
-    },
-    {
-      "id": 167,
-      "term": "featuring a",
-      "count": 112
-    },
-    {
-      "id": 168,
-      "term": "property is",
-      "count": 112
-    },
-    {
-      "id": 169,
       "term": "close to",
-      "count": 112
+      "category": "Location",
+      "count": 113,
+      "source": "category_match",
+      "id": 45
     },
     {
-      "id": 170,
-      "term": "for both",
-      "count": 111
-    },
-    {
-      "id": 171,
-      "term": ", featuring",
-      "count": 108
-    },
-    {
-      "id": 172,
-      "term": "is the",
-      "count": 108
-    },
-    {
-      "id": 173,
-      "term": "areas ,",
-      "count": 107
-    },
-    {
-      "id": 174,
-      "term": "by a",
-      "count": 107
-    },
-    {
-      "id": 175,
-      "term": "storage ,",
-      "count": 107
-    },
-    {
-      "id": 176,
-      "term": "or a",
-      "count": 107
-    },
-    {
-      "id": 177,
-      "term": ". whether",
-      "count": 107
-    },
-    {
-      "id": 178,
-      "term": "spacious primary",
-      "count": 106
-    },
-    {
-      "id": 179,
-      "term": "a full",
-      "count": 106
-    },
-    {
-      "id": 180,
-      "term": "center ,",
-      "count": 106
-    },
-    {
-      "id": 181,
-      "term": "'s most",
-      "count": 106
-    },
-    {
-      "id": 182,
-      "term": "! welcome",
-      "count": 105
-    },
-    {
-      "id": 183,
-      "term": ", where",
-      "count": 105
-    },
-    {
-      "id": 184,
-      "term": "of a",
-      "count": 105
-    },
-    {
-      "id": 185,
-      "term": "area .",
-      "count": 104
-    },
-    {
-      "id": 186,
-      "term": "kitchen features",
-      "count": 104
-    },
-    {
-      "id": 187,
-      "term": ", providing",
-      "count": 104
-    },
-    {
-      "id": 188,
-      "term": "for guests",
-      "count": 104
-    },
-    {
-      "id": 189,
       "term": "quartz countertops",
-      "count": 103
+      "category": "Property Features",
+      "count": 103,
+      "source": "category_match",
+      "id": 46
     },
     {
-      "id": 190,
-      "term": "bedroom ,",
-      "count": 103
+      "term": "garden",
+      "category": "Exterior",
+      "count": 101,
+      "source": "category_match",
+      "id": 47
     },
     {
-      "id": 191,
-      "term": "kitchen is",
-      "count": 103
-    },
-    {
-      "id": 192,
-      "term": "whether you",
-      "count": 103
-    },
-    {
-      "id": 193,
-      "term": "garage .",
-      "count": 102
-    },
-    {
-      "id": 194,
-      "term": "comfort and",
-      "count": 102
-    },
-    {
-      "id": 195,
-      "term": "room .",
-      "count": 102
-    },
-    {
-      "id": 196,
-      "term": "living spaces",
-      "count": 101
-    },
-    {
-      "id": 197,
-      "term": "! this",
-      "count": 101
-    },
-    {
-      "id": 198,
-      "term": "home with",
-      "count": 100
-    },
-    {
-      "id": 199,
       "term": "granite countertops",
-      "count": 100
+      "category": "Property Features",
+      "count": 100,
+      "source": "category_match",
+      "id": 48
     },
     {
-      "id": 200,
-      "term": ", parks",
-      "count": 100
+      "term": "rare opportunity",
+      "category": "Pricing & Transaction",
+      "count": 99,
+      "source": "category_match",
+      "id": 49
+    },
+    {
+      "term": "loft",
+      "category": "Rooms",
+      "count": 95,
+      "source": "category_match",
+      "id": 50
+    },
+    {
+      "term": "open floor plan",
+      "category": "Property Features",
+      "count": 94,
+      "source": "category_match",
+      "id": 51
+    },
+    {
+      "term": "renovated",
+      "category": "Condition",
+      "count": 93,
+      "source": "category_match",
+      "id": 52
+    },
+    {
+      "term": "turnkey",
+      "category": "Condition",
+      "count": 89,
+      "source": "category_match",
+      "id": 53
+    },
+    {
+      "term": "built in",
+      "category": "Property Features",
+      "count": 88,
+      "source": "category_match",
+      "id": 54
+    },
+    {
+      "term": "mountain views",
+      "category": "Location",
+      "count": 87,
+      "source": "category_match",
+      "id": 55
+    },
+    {
+      "term": "clubhouse",
+      "category": "Amenities",
+      "count": 85,
+      "source": "category_match",
+      "id": 56
+    },
+    {
+      "term": "dining room",
+      "category": "Interior",
+      "count": 85,
+      "source": "category_match",
+      "id": 57
+    },
+    {
+      "term": "pantry",
+      "category": "Interior",
+      "count": 84,
+      "source": "category_match",
+      "id": 58
+    },
+    {
+      "term": "gated community",
+      "category": "Location",
+      "count": 83,
+      "source": "category_match",
+      "id": 59
+    },
+    {
+      "term": "vaulted ceilings",
+      "category": "Property Features",
+      "count": 80,
+      "source": "category_match",
+      "id": 60
+    },
+    {
+      "term": "primary bedroom",
+      "category": "Interior",
+      "count": 76,
+      "source": "category_match",
+      "id": 61
+    },
+    {
+      "term": "covered patio",
+      "category": "Exterior",
+      "count": 73,
+      "source": "category_match",
+      "id": 62
+    },
+    {
+      "term": "great room",
+      "category": "Interior",
+      "count": 72,
+      "source": "category_match",
+      "id": 63
+    },
+    {
+      "term": "main level",
+      "category": "Interior",
+      "count": 71,
+      "source": "category_match",
+      "id": 64
+    },
+    {
+      "term": "landscaped",
+      "category": "Exterior",
+      "count": 66,
+      "source": "category_match",
+      "id": 65
+    },
+    {
+      "term": "den",
+      "category": "Rooms",
+      "count": 64,
+      "source": "category_match",
+      "id": 66
+    },
+    {
+      "term": "private backyard",
+      "category": "Exterior",
+      "count": 62,
+      "source": "category_match",
+      "id": 67
+    },
+    {
+      "term": "fitness center",
+      "category": "Amenities",
+      "count": 61,
+      "source": "category_match",
+      "id": 68
+    },
+    {
+      "term": "full bath",
+      "category": "Interior",
+      "count": 61,
+      "source": "category_match",
+      "id": 69
+    },
+    {
+      "term": "golf course",
+      "category": "Location",
+      "count": 61,
+      "source": "category_match",
+      "id": 70
+    },
+    {
+      "term": "remodeled kitchen",
+      "category": "Property Features",
+      "count": 59,
+      "source": "category_match",
+      "id": 71
+    },
+    {
+      "term": "high ceilings",
+      "category": "Property Features",
+      "count": 58,
+      "source": "category_match",
+      "id": 72
+    },
+    {
+      "term": "solar panels",
+      "category": "Property Features",
+      "count": 57,
+      "source": "category_match",
+      "id": 73
+    },
+    {
+      "term": "updated kitchen",
+      "category": "Property Features",
+      "count": 56,
+      "source": "category_match",
+      "id": 74
+    },
+    {
+      "term": "pickleball",
+      "category": "Amenities",
+      "count": 53,
+      "source": "category_match",
+      "id": 75
+    },
+    {
+      "term": "custom cabinetry",
+      "category": "Property Features",
+      "count": 51,
+      "source": "category_match",
+      "id": 76
+    },
+    {
+      "term": "corner lot",
+      "category": "Location",
+      "count": 48,
+      "source": "category_match",
+      "id": 77
+    },
+    {
+      "term": "bonus room",
+      "category": "Interior",
+      "count": 46,
+      "source": "category_match",
+      "id": 78
+    },
+    {
+      "term": "community amenities",
+      "category": "Amenities",
+      "count": 45,
+      "source": "category_match",
+      "id": 79
+    },
+    {
+      "term": "hardwood floors",
+      "category": "Property Features",
+      "count": 45,
+      "source": "category_match",
+      "id": 80
+    },
+    {
+      "term": "outdoor space",
+      "category": "Exterior",
+      "count": 44,
+      "source": "category_match",
+      "id": 81
+    },
+    {
+      "term": "community pool",
+      "category": "Amenities",
+      "count": 42,
+      "source": "category_match",
+      "id": 82
+    },
+    {
+      "term": "attached garage",
+      "category": "Exterior",
+      "count": 41,
+      "source": "category_match",
+      "id": 83
+    },
+    {
+      "term": "near shopping",
+      "category": "Location",
+      "count": 41,
+      "source": "category_match",
+      "id": 84
+    },
+    {
+      "term": "swimming pool",
+      "category": "Amenities",
+      "count": 41,
+      "source": "category_match",
+      "id": 85
+    },
+    {
+      "term": "workshop",
+      "category": "Rooms",
+      "count": 41,
+      "source": "category_match",
+      "id": 86
+    },
+    {
+      "term": "new flooring",
+      "category": "Property Features",
+      "count": 40,
+      "source": "category_match",
+      "id": 87
+    },
+    {
+      "term": "walking distance",
+      "category": "Location",
+      "count": 40,
+      "source": "category_match",
+      "id": 88
+    },
+    {
+      "term": "breakfast bar",
+      "category": "Property Features",
+      "count": 38,
+      "source": "category_match",
+      "id": 89
+    },
+    {
+      "term": "shed",
+      "category": "Exterior",
+      "count": 37,
+      "source": "category_match",
+      "id": 90
+    },
+    {
+      "term": "media room",
+      "category": "Rooms",
+      "count": 36,
+      "source": "category_match",
+      "id": 91
+    },
+    {
+      "term": "powder room",
+      "category": "Interior",
+      "count": 36,
+      "source": "category_match",
+      "id": 92
+    },
+    {
+      "term": "mature trees",
+      "category": "Exterior",
+      "count": 35,
+      "source": "category_match",
+      "id": 93
+    },
+    {
+      "term": "new roof",
+      "category": "Property Features",
+      "count": 35,
+      "source": "category_match",
+      "id": 94
+    },
+    {
+      "term": "sauna",
+      "category": "Amenities",
+      "count": 35,
+      "source": "category_match",
+      "id": 95
+    },
+    {
+      "term": "air conditioning",
+      "category": "Property Features",
+      "count": 31,
+      "source": "category_match",
+      "id": 96
+    },
+    {
+      "term": "breakfast nook",
+      "category": "Interior",
+      "count": 31,
+      "source": "category_match",
+      "id": 97
+    },
+    {
+      "term": "central air",
+      "category": "Property Features",
+      "count": 31,
+      "source": "category_match",
+      "id": 98
+    },
+    {
+      "term": "front yard",
+      "category": "Exterior",
+      "count": 30,
+      "source": "category_match",
+      "id": 99
+    },
+    {
+      "term": "fire pit",
+      "category": "Exterior",
+      "count": 29,
+      "source": "category_match",
+      "id": 100
+    },
+    {
+      "term": "game room",
+      "category": "Rooms",
+      "count": 28,
+      "source": "category_match",
+      "id": 101
+    },
+    {
+      "term": "hot tub",
+      "category": "Exterior",
+      "count": 28,
+      "source": "category_match",
+      "id": 102
+    },
+    {
+      "term": "move in ready",
+      "category": "Condition",
+      "count": 28,
+      "source": "category_match",
+      "id": 103
+    },
+    {
+      "term": "new construction",
+      "category": "Condition",
+      "count": 27,
+      "source": "category_match",
+      "id": 104
+    },
+    {
+      "term": "open concept",
+      "category": "Property Features",
+      "count": 26,
+      "source": "category_match",
+      "id": 105
+    },
+    {
+      "term": "prime location",
+      "category": "Location",
+      "count": 26,
+      "source": "category_match",
+      "id": 106
+    },
+    {
+      "term": "walking trails",
+      "category": "Amenities",
+      "count": 26,
+      "source": "category_match",
+      "id": 107
+    },
+    {
+      "term": "half bath",
+      "category": "Interior",
+      "count": 25,
+      "source": "category_match",
+      "id": 108
+    },
+    {
+      "term": "waterfront",
+      "category": "Location",
+      "count": 25,
+      "source": "category_match",
+      "id": 109
+    },
+    {
+      "term": "fresh paint",
+      "category": "Condition",
+      "count": 24,
+      "source": "category_match",
+      "id": 110
+    },
+    {
+      "term": "investment opportunity",
+      "category": "Pricing & Transaction",
+      "count": 24,
+      "source": "category_match",
+      "id": 111
+    },
+    {
+      "term": "lower level",
+      "category": "Interior",
+      "count": 24,
+      "source": "category_match",
+      "id": 112
+    },
+    {
+      "term": "guest suite",
+      "category": "Interior",
+      "count": 23,
+      "source": "category_match",
+      "id": 113
+    },
+    {
+      "term": "smart home",
+      "category": "Amenities",
+      "count": 23,
+      "source": "category_match",
+      "id": 114
+    },
+    {
+      "term": "elevator",
+      "category": "Amenities",
+      "count": 22,
+      "source": "category_match",
+      "id": 115
+    },
+    {
+      "term": "fully remodeled",
+      "category": "Condition",
+      "count": 22,
+      "source": "category_match",
+      "id": 116
+    },
+    {
+      "term": "playground",
+      "category": "Amenities",
+      "count": 22,
+      "source": "category_match",
+      "id": 117
+    },
+    {
+      "term": "historic",
+      "category": "Condition",
+      "count": 21,
+      "source": "category_match",
+      "id": 118
+    },
+    {
+      "term": "new appliances",
+      "category": "Property Features",
+      "count": 21,
+      "source": "category_match",
+      "id": 119
+    },
+    {
+      "term": "front porch",
+      "category": "Exterior",
+      "count": 20,
+      "source": "category_match",
+      "id": 120
+    },
+    {
+      "term": "sold",
+      "category": "Pricing & Transaction",
+      "count": 20,
+      "source": "category_match",
+      "id": 121
+    },
+    {
+      "term": "upper level",
+      "category": "Interior",
+      "count": 20,
+      "source": "category_match",
+      "id": 122
+    },
+    {
+      "term": "primary bathroom",
+      "category": "Interior",
+      "count": 18,
+      "source": "category_match",
+      "id": 123
+    },
+    {
+      "term": "storage shed",
+      "category": "Exterior",
+      "count": 18,
+      "source": "category_match",
+      "id": 124
+    },
+    {
+      "term": "primary bath",
+      "category": "Interior",
+      "count": 17,
+      "source": "category_match",
+      "id": 125
+    },
+    {
+      "term": "master bedroom",
+      "category": "Interior",
+      "count": 16,
+      "source": "category_match",
+      "id": 126
+    },
+    {
+      "term": "new carpet",
+      "category": "Condition",
+      "count": 16,
+      "source": "category_match",
+      "id": 127
+    },
+    {
+      "term": "new windows",
+      "category": "Property Features",
+      "count": 16,
+      "source": "category_match",
+      "id": 128
+    },
+    {
+      "term": "walk in closet",
+      "category": "Interior",
+      "count": 16,
+      "source": "category_match",
+      "id": 129
+    },
+    {
+      "term": "wood floors",
+      "category": "Property Features",
+      "count": 16,
+      "source": "category_match",
+      "id": 130
+    },
+    {
+      "term": "ev charging",
+      "category": "Amenities",
+      "count": 15,
+      "source": "category_match",
+      "id": 131
+    },
+    {
+      "term": "meticulously maintained",
+      "category": "Condition",
+      "count": 15,
+      "source": "category_match",
+      "id": 132
+    },
+    {
+      "term": "near schools",
+      "category": "Location",
+      "count": 15,
+      "source": "category_match",
+      "id": 133
+    },
+    {
+      "term": "security system",
+      "category": "Amenities",
+      "count": 15,
+      "source": "category_match",
+      "id": 134
+    },
+    {
+      "term": "guest room",
+      "category": "Rooms",
+      "count": 14,
+      "source": "category_match",
+      "id": 135
+    },
+    {
+      "term": "public transportation",
+      "category": "Location",
+      "count": 14,
+      "source": "category_match",
+      "id": 136
+    },
+    {
+      "term": "recently remodeled",
+      "category": "Condition",
+      "count": 14,
+      "source": "category_match",
+      "id": 137
+    },
+    {
+      "term": "well maintained",
+      "category": "Condition",
+      "count": 14,
+      "source": "category_match",
+      "id": 138
+    },
+    {
+      "term": "dog park",
+      "category": "Amenities",
+      "count": 13,
+      "source": "category_match",
+      "id": 139
+    },
+    {
+      "term": "restored",
+      "category": "Condition",
+      "count": 13,
+      "source": "category_match",
+      "id": 140
+    },
+    {
+      "term": "updated bathroom",
+      "category": "Condition",
+      "count": 13,
+      "source": "category_match",
+      "id": 141
+    },
+    {
+      "term": "basement",
+      "category": "Rooms",
+      "count": 12,
+      "source": "category_match",
+      "id": 142
+    },
+    {
+      "term": "kitchen island",
+      "category": "Property Features",
+      "count": 12,
+      "source": "category_match",
+      "id": 143
+    },
+    {
+      "term": "near parks",
+      "category": "Location",
+      "count": 12,
+      "source": "category_match",
+      "id": 144
+    },
+    {
+      "term": "newly built",
+      "category": "Condition",
+      "count": 12,
+      "source": "category_match",
+      "id": 145
+    },
+    {
+      "term": "newly remodeled",
+      "category": "Condition",
+      "count": 12,
+      "source": "category_match",
+      "id": 146
+    },
+    {
+      "term": "quiet neighborhood",
+      "category": "Location",
+      "count": 12,
+      "source": "category_match",
+      "id": 147
+    },
+    {
+      "term": "new paint",
+      "category": "Condition",
+      "count": 11,
+      "source": "category_match",
+      "id": 148
+    },
+    {
+      "term": "sunroom",
+      "category": "Rooms",
+      "count": 11,
+      "source": "category_match",
+      "id": 149
+    },
+    {
+      "term": "two car garage",
+      "category": "Exterior",
+      "count": 11,
+      "source": "category_match",
+      "id": 150
+    },
+    {
+      "term": "wine cellar",
+      "category": "Amenities",
+      "count": 11,
+      "source": "category_match",
+      "id": 151
+    },
+    {
+      "term": "city views",
+      "category": "Location",
+      "count": 10,
+      "source": "category_match",
+      "id": 152
+    },
+    {
+      "term": "storage room",
+      "category": "Rooms",
+      "count": 10,
+      "source": "category_match",
+      "id": 153
+    },
+    {
+      "term": "study",
+      "category": "Rooms",
+      "count": 10,
+      "source": "category_match",
+      "id": 154
+    },
+    {
+      "term": "tennis court",
+      "category": "Amenities",
+      "count": 10,
+      "source": "category_match",
+      "id": 155
+    },
+    {
+      "term": "closing costs",
+      "category": "Pricing & Transaction",
+      "count": 9,
+      "source": "category_match",
+      "id": 156
+    },
+    {
+      "term": "hoa fees",
+      "category": "Pricing & Transaction",
+      "count": 9,
+      "source": "category_match",
+      "id": 157
+    },
+    {
+      "term": "price reduction",
+      "category": "Pricing & Transaction",
+      "count": 9,
+      "source": "category_match",
+      "id": 158
+    },
+    {
+      "term": "tile floors",
+      "category": "Property Features",
+      "count": 9,
+      "source": "category_match",
+      "id": 159
+    },
+    {
+      "term": "fenced yard",
+      "category": "Exterior",
+      "count": 8,
+      "source": "category_match",
+      "id": 160
+    },
+    {
+      "term": "hoa fee",
+      "category": "Pricing & Transaction",
+      "count": 8,
+      "source": "category_match",
+      "id": 161
+    },
+    {
+      "term": "cul de sac",
+      "category": "Location",
+      "count": 7,
+      "source": "category_match",
+      "id": 162
+    },
+    {
+      "term": "large backyard",
+      "category": "Exterior",
+      "count": 7,
+      "source": "category_match",
+      "id": 163
+    },
+    {
+      "term": "near downtown",
+      "category": "Location",
+      "count": 7,
+      "source": "category_match",
+      "id": 164
+    },
+    {
+      "term": "utility room",
+      "category": "Rooms",
+      "count": 7,
+      "source": "category_match",
+      "id": 165
+    },
+    {
+      "term": "as is",
+      "category": "Condition",
+      "count": 6,
+      "source": "category_match",
+      "id": 166
+    },
+    {
+      "term": "mudroom",
+      "category": "Interior",
+      "count": 6,
+      "source": "category_match",
+      "id": 167
+    },
+    {
+      "term": "property taxes",
+      "category": "Pricing & Transaction",
+      "count": 6,
+      "source": "category_match",
+      "id": 168
+    },
+    {
+      "term": "smart thermostat",
+      "category": "Amenities",
+      "count": 6,
+      "source": "category_match",
+      "id": 169
+    },
+    {
+      "term": "three car garage",
+      "category": "Exterior",
+      "count": 6,
+      "source": "category_match",
+      "id": 170
+    },
+    {
+      "term": "recreation center",
+      "category": "Amenities",
+      "count": 5,
+      "source": "category_match",
+      "id": 171
+    },
+    {
+      "term": "sprinkler system",
+      "category": "Exterior",
+      "count": 5,
+      "source": "category_match",
+      "id": 172
+    },
+    {
+      "term": "double pane windows",
+      "category": "Property Features",
+      "count": 4,
+      "source": "category_match",
+      "id": 173
+    },
+    {
+      "term": "electric vehicle",
+      "category": "Amenities",
+      "count": 4,
+      "source": "category_match",
+      "id": 174
+    },
+    {
+      "term": "forced air",
+      "category": "Property Features",
+      "count": 4,
+      "source": "category_match",
+      "id": 175
+    },
+    {
+      "term": "home theater",
+      "category": "Amenities",
+      "count": 4,
+      "source": "category_match",
+      "id": 176
+    },
+    {
+      "term": "mountain view",
+      "category": "Location",
+      "count": 4,
+      "source": "category_match",
+      "id": 177
+    },
+    {
+      "term": "below market",
+      "category": "Pricing & Transaction",
+      "count": 3,
+      "source": "category_match",
+      "id": 178
+    },
+    {
+      "term": "community garden",
+      "category": "Amenities",
+      "count": 3,
+      "source": "category_match",
+      "id": 179
+    },
+    {
+      "term": "good condition",
+      "category": "Condition",
+      "count": 3,
+      "source": "category_match",
+      "id": 180
+    },
+    {
+      "term": "recreation room",
+      "category": "Rooms",
+      "count": 3,
+      "source": "category_match",
+      "id": 181
+    },
+    {
+      "term": "walk in pantry",
+      "category": "Interior",
+      "count": 3,
+      "source": "category_match",
+      "id": 182
+    },
+    {
+      "term": "asking price",
+      "category": "Pricing & Transaction",
+      "count": 2,
+      "source": "category_match",
+      "id": 183
+    },
+    {
+      "term": "covered porch",
+      "category": "Exterior",
+      "count": 2,
+      "source": "category_match",
+      "id": 184
+    },
+    {
+      "term": "excellent condition",
+      "category": "Condition",
+      "count": 2,
+      "source": "category_match",
+      "id": 185
+    },
+    {
+      "term": "exercise room",
+      "category": "Rooms",
+      "count": 2,
+      "source": "category_match",
+      "id": 186
+    },
+    {
+      "term": "fixer upper",
+      "category": "Condition",
+      "count": 2,
+      "source": "category_match",
+      "id": 187
+    },
+    {
+      "term": "lakefront",
+      "category": "Location",
+      "count": 2,
+      "source": "category_match",
+      "id": 188
+    },
+    {
+      "term": "seller financing",
+      "category": "Pricing & Transaction",
+      "count": 2,
+      "source": "category_match",
+      "id": 189
+    },
+    {
+      "term": "back on market",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 190
+    },
+    {
+      "term": "built ins",
+      "category": "Property Features",
+      "count": 1,
+      "source": "category_match",
+      "id": 191
+    },
+    {
+      "term": "cash offer",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 192
+    },
+    {
+      "term": "contingent",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 193
+    },
+    {
+      "term": "eat in kitchen",
+      "category": "Interior",
+      "count": 1,
+      "source": "category_match",
+      "id": 194
+    },
+    {
+      "term": "listing price",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 195
+    },
+    {
+      "term": "market value",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 196
+    },
+    {
+      "term": "near restaurants",
+      "category": "Location",
+      "count": 1,
+      "source": "category_match",
+      "id": 197
+    },
+    {
+      "term": "needs updating",
+      "category": "Condition",
+      "count": 1,
+      "source": "category_match",
+      "id": 198
+    },
+    {
+      "term": "new listing",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 199
+    },
+    {
+      "term": "pending",
+      "category": "Pricing & Transaction",
+      "count": 1,
+      "source": "category_match",
+      "id": 200
     }
   ]
 }
