@@ -1,0 +1,57 @@
+{
+  "evaluation_type": "exact structured-filter match (all expected keys and no extras)",
+  "total_queries": 64,
+  "correct_queries": 64,
+  "incorrect_queries": 0,
+  "accuracy": 1.0,
+  "target_accuracy": 0.9,
+  "target_met": true,
+  "by_intent": {
+    "amenities": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "condition": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "exterior": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "listing_status": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "location": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "price": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "property_features": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    },
+    "rooms": {
+      "correct": 8,
+      "total": 8,
+      "accuracy": 1.0
+    }
+  },
+  "limitations": [
+    "Sample queries were generated for the project; performance here is in-sample development-set evaluation, not independent generalization.",
+    "Reference filters require human/team review before they are treated as gold.",
+    "SQL execution and whether each supported filter is actually applied in SQL are separate from parsing accuracy.",
+    "Taxonomy coverage and synonym choices influence the score."
+  ]
+}

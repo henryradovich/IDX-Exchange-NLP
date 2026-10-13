@@ -1,0 +1,1168 @@
+[
+  {
+    "id": 1,
+    "query": "Find homes with hardwood floors and a fireplace.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "hardwood floors",
+        "fireplace"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fireplace",
+        "hardwood floors"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 2,
+    "query": "Show me listings with granite countertops.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "granite countertops"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "granite countertops"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 3,
+    "query": "I want a house with an open floor plan.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "open floor plan"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "open floor plan"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 4,
+    "query": "Find homes with vaulted ceilings.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "vaulted ceilings"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "vaulted ceilings"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 5,
+    "query": "Show properties with stainless steel appliances.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "stainless steel appliances"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "stainless steel appliances"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 6,
+    "query": "Find houses with lots of natural light.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "natural light"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "natural light"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 7,
+    "query": "I want a home with a kitchen island.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "kitchen island"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "kitchen island"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 8,
+    "query": "Show me houses with a fireplace and high ceilings.",
+    "intent": "property_features",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "fireplace",
+        "high ceilings"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fireplace",
+        "high ceilings"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 9,
+    "query": "Find homes near downtown.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "near downtown"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "near downtown"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 10,
+    "query": "Show me properties close to parks.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "near parks"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "near parks"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 11,
+    "query": "I want a house near shopping and restaurants.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "near shopping",
+        "near restaurants"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "near restaurants",
+        "near shopping"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 12,
+    "query": "Find listings with mountain views.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "mountain views"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "mountain views"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 13,
+    "query": "Show homes on a cul-de-sac.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "cul de sac"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "cul de sac"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 14,
+    "query": "Find properties in a quiet neighborhood.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "quiet neighborhood"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "quiet neighborhood"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 15,
+    "query": "I want something close to public transportation.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "public transportation"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "public transportation"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 16,
+    "query": "Show listings within walking distance of amenities.",
+    "intent": "location",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "walking distance"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "walking distance"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 17,
+    "query": "Find homes with four bedrooms.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "bedrooms": 4
+    },
+    "predicted_filters": {
+      "bedrooms": 4
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 18,
+    "query": "Show houses with a home office.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "home office"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "home office"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 19,
+    "query": "I need a finished basement.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "finished basement"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "finished basement"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 20,
+    "query": "Find properties with a primary suite.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "primary suite"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "primary suite"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 21,
+    "query": "Show homes with a dedicated laundry room.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "laundry room"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "laundry room"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 22,
+    "query": "I want a guest suite.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "guest suite"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "guest suite"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 23,
+    "query": "Find homes with a large living room.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "living room"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "living room"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 24,
+    "query": "Show listings with a formal dining room.",
+    "intent": "rooms",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "dining room"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "dining room"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 25,
+    "query": "Find homes with a large backyard.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "large backyard"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "large backyard"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 26,
+    "query": "Show properties with a covered patio.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "covered patio"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "covered patio"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 27,
+    "query": "I want a house with a deck.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "deck"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "deck"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 28,
+    "query": "Find listings with a fenced yard.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "fenced yard"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fenced yard"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 29,
+    "query": "Show me homes with a front porch.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "front porch"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "front porch"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 30,
+    "query": "I want a property with mature trees.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "mature trees"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "mature trees"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 31,
+    "query": "Find houses with an attached garage.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "attached garage"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "attached garage"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 32,
+    "query": "Show properties with outdoor living space.",
+    "intent": "exterior",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "outdoor living"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "outdoor living"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 33,
+    "query": "Find homes with a community pool.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "community pool"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "community pool"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 34,
+    "query": "Show properties with a fitness center.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "fitness center"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fitness center"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 35,
+    "query": "I want access to a clubhouse.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "clubhouse"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "clubhouse"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 36,
+    "query": "Find listings with a hot tub.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "hot tub"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "hot tub"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 37,
+    "query": "Show homes with smart home features.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "smart home"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "smart home"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 38,
+    "query": "Find properties with EV charging.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "ev charging"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "ev charging"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 39,
+    "query": "I want a neighborhood with walking trails.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "walking trails"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "walking trails"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 40,
+    "query": "Show communities with a dog park.",
+    "intent": "amenities",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "dog park"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "dog park"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 41,
+    "query": "Find move-in ready homes.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "move in ready"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "move in ready"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 42,
+    "query": "Show recently remodeled properties.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "recently remodeled"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "recently remodeled"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 43,
+    "query": "I want a newly constructed home.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "new construction"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "new construction"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 44,
+    "query": "Find homes with a new roof.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "new roof"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "new roof"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 45,
+    "query": "Show fully renovated houses.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "fully remodeled"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fully remodeled"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 46,
+    "query": "Find properties that need updating.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "needs updating"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "needs updating"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 47,
+    "query": "Show fixer-uppers.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "fixer upper"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "fixer upper"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 48,
+    "query": "I want a well-maintained home.",
+    "intent": "condition",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "well maintained"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "well maintained"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 49,
+    "query": "Show homes under $500,000.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "price_max": 500000
+    },
+    "predicted_filters": {
+      "price_max": 500000
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 50,
+    "query": "Find properties between $400,000 and $600,000.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "price_min": 400000,
+      "price_max": 600000
+    },
+    "predicted_filters": {
+      "price_min": 400000,
+      "price_max": 600000
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 51,
+    "query": "What listings have had a recent price reduction?",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "price reduction"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "price reduction"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 52,
+    "query": "Find homes below market value.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "amenities_include": [
+        "below market"
+      ]
+    },
+    "predicted_filters": {
+      "amenities_include": [
+        "below market"
+      ]
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 53,
+    "query": "Show the least expensive three-bedroom homes.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "bedrooms": 3,
+      "sort": "price_asc"
+    },
+    "predicted_filters": {
+      "bedrooms": 3,
+      "sort": "price_asc"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 54,
+    "query": "Find properties with low HOA fees.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "hoa_fee_max_preference": "low"
+    },
+    "predicted_filters": {
+      "hoa_fee_max_preference": "low"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 55,
+    "query": "Show homes with no HOA.",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "hoa": false
+    },
+    "predicted_filters": {
+      "hoa": false
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 56,
+    "query": "What properties are listed below $750,000?",
+    "intent": "price",
+    "exact_match": true,
+    "expected_filters": {
+      "price_max": 750000
+    },
+    "predicted_filters": {
+      "price_max": 750000
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 57,
+    "query": "Show active listings.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "active"
+    },
+    "predicted_filters": {
+      "listing_status": "active"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 58,
+    "query": "Find homes that are pending.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "pending"
+    },
+    "predicted_filters": {
+      "listing_status": "pending"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 59,
+    "query": "Which properties are under contract?",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "under_contract"
+    },
+    "predicted_filters": {
+      "listing_status": "under_contract"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 60,
+    "query": "Show homes that came back on the market.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "back_on_market"
+    },
+    "predicted_filters": {
+      "listing_status": "back_on_market"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 61,
+    "query": "Find recently sold properties.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "sold"
+    },
+    "predicted_filters": {
+      "listing_status": "sold"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 62,
+    "query": "Show new listings.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "new_listing"
+    },
+    "predicted_filters": {
+      "listing_status": "new_listing"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 63,
+    "query": "Which properties are contingent?",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "contingent"
+    },
+    "predicted_filters": {
+      "listing_status": "contingent"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  },
+  {
+    "id": 64,
+    "query": "Find homes that are still available.",
+    "intent": "listing_status",
+    "exact_match": true,
+    "expected_filters": {
+      "listing_status": "active"
+    },
+    "predicted_filters": {
+      "listing_status": "active"
+    },
+    "missing_filters": {},
+    "unexpected_filters": {},
+    "wrong_filters": {}
+  }
+]
