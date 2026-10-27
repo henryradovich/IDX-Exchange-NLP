@@ -1,0 +1,20 @@
+# Python
+venv/
+venv312/
+__pycache__/
+.pytest_cache/
+
+# Embeddings and indexes
+*.faiss
+*.npy
+*.npz
+*.pkl
+*.bin
+
+# Large generated datasets
+data/processed/search_index/
+data/processed/search_index_10k/
+data/processed/listing_sample_10k.csv
+
+# Environment files
+.env
