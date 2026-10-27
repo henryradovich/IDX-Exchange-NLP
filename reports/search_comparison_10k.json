@@ -1,0 +1,36 @@
+{
+  "listing_count": 10000,
+  "data_source": "data/processed/listing_sample_10k.csv",
+  "corpus_type": "real_distinct_listing_ids",
+  "embedding_dimension": 384,
+  "top_k": 10,
+  "warmup_runs_per_engine": 10,
+  "timed_queries_per_engine": 100,
+  "index_build_seconds": {
+    "model_load": 8.844,
+    "semantic_embeddings_and_faiss": 136.25,
+    "bm25": 1.054
+  },
+  "latency_ms": {
+    "semantic": {
+      "mean": 10.848,
+      "p50": 11.001,
+      "p95": 11.397,
+      "p99": 11.612,
+      "max": 12.048,
+      "runs": 100
+    },
+    "bm25": {
+      "mean": 14.686,
+      "p50": 14.868,
+      "p95": 18.352,
+      "p99": 20.089,
+      "max": 20.676,
+      "runs": 100
+    }
+  },
+  "latency_scope": "warm end-to-end engine.search: query embedding/tokenization, vector or keyword lookup, and result construction; excludes indexing/model loading and CSV I/O",
+  "threshold_ms": 100,
+  "pass_mean_below_100ms": true,
+  "pass_p95_below_100ms": true
+}
