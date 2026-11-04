@@ -15,6 +15,7 @@ __pycache__/
 data/processed/search_index/
 data/processed/search_index_10k/
 data/processed/listing_sample_10k.csv
+data/processed/listing_signals_full.jsonl
 
 # Environment files
 .env

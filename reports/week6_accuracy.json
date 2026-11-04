@@ -1,0 +1,98 @@
+{
+  "predictions_total": 55209,
+  "gold_reviewed_matched": 200,
+  "gold_unreviewed_skipped": 0,
+  "gold_source": "data/processed/signal_gold_labels.jsonl",
+  "structured_comparison_source": "data/processed/listing_sample_10k.csv",
+  "free_text": {
+    "by_category": {
+      "amenities": {
+        "precision": 0.8901,
+        "recall": 0.8174,
+        "f1": 0.8522,
+        "tp": 1110,
+        "fp": 137,
+        "fn": 248,
+        "exact_listing_accuracy": 0.265,
+        "evaluated_listings": 200
+      },
+      "condition_keywords": {
+        "precision": 0.7906,
+        "recall": 0.5698,
+        "f1": 0.6623,
+        "tp": 151,
+        "fp": 40,
+        "fn": 114,
+        "exact_listing_accuracy": 0.555,
+        "evaluated_listings": 200
+      },
+      "financing_terms": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "exact_listing_accuracy": 1.0,
+        "evaluated_listings": 200
+      },
+      "location_features": {
+        "precision": 0.6488,
+        "recall": 0.457,
+        "f1": 0.5363,
+        "tp": 133,
+        "fp": 72,
+        "fn": 158,
+        "exact_listing_accuracy": 0.285,
+        "evaluated_listings": 200
+      }
+    },
+    "micro": {
+      "precision": 0.8489,
+      "recall": 0.729,
+      "f1": 0.7844,
+      "tp": 1399,
+      "fp": 249,
+      "fn": 520
+    },
+    "macro_f1": 0.7627,
+    "target_f1_0_75_met": true
+  },
+  "structured": {
+    "by_field": {
+      "city": {
+        "correct": 37,
+        "evaluated": 37,
+        "accuracy": 1.0,
+        "missing_ground_truth": 0
+      },
+      "bedrooms": {
+        "correct": 37,
+        "evaluated": 37,
+        "accuracy": 1.0,
+        "missing_ground_truth": 0
+      },
+      "bathrooms": {
+        "correct": 37,
+        "evaluated": 37,
+        "accuracy": 1.0,
+        "missing_ground_truth": 0
+      },
+      "price": {
+        "correct": 37,
+        "evaluated": 37,
+        "accuracy": 1.0,
+        "missing_ground_truth": 0
+      }
+    },
+    "micro_field_accuracy": 1.0,
+    "target_accuracy_0_90_met": true
+  },
+  "notes": [
+    "Free-text F1 compares canonical signal sets against independently human-reviewed annotations.",
+    "Structured accuracy compares output structured fields to original MLS columns, not to entity mentions.",
+    "Structured accuracy is not an independent validation of underlying MLS values.",
+    "Only IDs with reviewed=true are used for free-text evaluation.",
+    "No results are claimed from unreviewed/predicted-only labels."
+  ]
+}

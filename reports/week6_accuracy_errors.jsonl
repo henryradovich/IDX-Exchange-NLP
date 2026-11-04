@@ -1,0 +1,379 @@
+{"listing_id": "1189598850", "category": "amenities", "false_positive": [], "false_negative": ["security system"]}
+{"listing_id": "1189598850", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1189598850", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1159740022", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1149646110", "category": "amenities", "false_positive": [], "false_negative": ["backyard", "open floor plan"]}
+{"listing_id": "1190552036", "category": "amenities", "false_positive": [], "false_negative": ["built ins"]}
+{"listing_id": "1190552036", "category": "condition_keywords", "false_positive": [], "false_negative": ["updated"]}
+{"listing_id": "1190552036", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "near restaurants", "near schools"]}
+{"listing_id": "1176571159", "category": "amenities", "false_positive": [], "false_negative": ["landscaping"]}
+{"listing_id": "1176571159", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["city views", "panoramic views", "public transportation"]}
+{"listing_id": "1176411583", "category": "amenities", "false_positive": [], "false_negative": ["air conditioning"]}
+{"listing_id": "1176411583", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views"]}
+{"listing_id": "1176044917", "category": "amenities", "false_positive": ["walk in pantry"], "false_negative": ["hot tub", "pantry"]}
+{"listing_id": "1176044917", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled"]}
+{"listing_id": "1176044917", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1169735569", "category": "amenities", "false_positive": ["loft"], "false_negative": []}
+{"listing_id": "1169735569", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1178386409", "category": "amenities", "false_positive": ["tile floors"], "false_negative": ["new windows", "patio"]}
+{"listing_id": "1178386409", "category": "condition_keywords", "false_positive": [], "false_negative": ["fresh paint"]}
+{"listing_id": "1159253264", "category": "amenities", "false_positive": ["walk in pantry"], "false_negative": ["built ins", "fire pit", "hot tub", "pantry"]}
+{"listing_id": "1159253264", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["near shopping", "privacy"]}
+{"listing_id": "1189969180", "category": "amenities", "false_positive": ["front yard"], "false_negative": ["granite countertops"]}
+{"listing_id": "1189969180", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["near parks"]}
+{"listing_id": "1190548695", "category": "amenities", "false_positive": [], "false_negative": ["garden", "pool"]}
+{"listing_id": "1184434542", "category": "condition_keywords", "false_positive": [], "false_negative": ["renovated"]}
+{"listing_id": "1184434542", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1158299735", "category": "amenities", "false_positive": [], "false_negative": ["guest house", "patio"]}
+{"listing_id": "1158299735", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1188044171", "category": "amenities", "false_positive": ["home office"], "false_negative": ["patio", "pool"]}
+{"listing_id": "1188044171", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1179254520", "category": "amenities", "false_positive": ["home office"], "false_negative": []}
+{"listing_id": "1179254520", "category": "location_features", "false_positive": [], "false_negative": ["near shopping", "privacy"]}
+{"listing_id": "1151720927", "category": "amenities", "false_positive": [], "false_negative": ["air conditioning"]}
+{"listing_id": "1151720927", "category": "condition_keywords", "false_positive": [], "false_negative": ["new flooring", "new roof", "turnkey"]}
+{"listing_id": "1151720927", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1151427238", "category": "amenities", "false_positive": ["bonus room", "game room", "walk in pantry"], "false_negative": ["built ins", "pantry"]}
+{"listing_id": "1158664359", "category": "amenities", "false_positive": ["front yard"], "false_negative": ["built ins", "pool"]}
+{"listing_id": "1158664359", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near parks"]}
+{"listing_id": "1176002117", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1176002117", "category": "location_features", "false_positive": ["close to", "conveniently located"], "false_negative": ["near schools", "privacy"]}
+{"listing_id": "1176228313", "category": "amenities", "false_positive": [], "false_negative": ["fireplace"]}
+{"listing_id": "1176228313", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1182929912", "category": "amenities", "false_positive": ["tile floors"], "false_negative": []}
+{"listing_id": "1182929912", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1150473201", "category": "amenities", "false_positive": ["guest suite", "home office"], "false_negative": ["built ins", "hot tub", "playground"]}
+{"listing_id": "1150473201", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1185674200", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "pool"]}
+{"listing_id": "1185674200", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1175125664", "category": "amenities", "false_positive": [], "false_negative": ["guest house"]}
+{"listing_id": "1175125664", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1190404502", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "hot tub", "pool", "sauna", "security system"]}
+{"listing_id": "1190404502", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["well maintained"]}
+{"listing_id": "1190404502", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1189593470", "category": "amenities", "false_positive": ["bonus room", "home office", "loft"], "false_negative": ["built ins", "solar panels"]}
+{"listing_id": "1189593470", "category": "condition_keywords", "false_positive": [], "false_negative": ["fresh paint"]}
+{"listing_id": "1189593470", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near shopping"]}
+{"listing_id": "1190319925", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "hot tub", "patio"]}
+{"listing_id": "1184671879", "category": "amenities", "false_positive": ["front yard"], "false_negative": []}
+{"listing_id": "1179203463", "category": "amenities", "false_positive": [], "false_negative": ["guest house", "landscaping", "new flooring"]}
+{"listing_id": "1179203463", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["new flooring"]}
+{"listing_id": "1179203463", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1176041209", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1179814226", "category": "amenities", "false_positive": [], "false_negative": ["deck"]}
+{"listing_id": "1188190549", "category": "amenities", "false_positive": [], "false_negative": ["guest house", "landscaping", "pool"]}
+{"listing_id": "1188190549", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1188190549", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views", "privacy"]}
+{"listing_id": "1190952875", "category": "amenities", "false_positive": ["front yard"], "false_negative": ["guest house"]}
+{"listing_id": "1190952875", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled"]}
+{"listing_id": "1190952875", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1079066908", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1079066908", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1190660365", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["guest house", "patio"]}
+{"listing_id": "1190660365", "category": "location_features", "false_positive": ["close to"], "false_negative": []}
+{"listing_id": "1190958169", "category": "amenities", "false_positive": ["mature trees"], "false_negative": []}
+{"listing_id": "1190958169", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "well maintained"]}
+{"listing_id": "1172763916", "category": "amenities", "false_positive": ["guest house", "walk in pantry"], "false_negative": ["balcony", "built ins", "new windows", "pantry"]}
+{"listing_id": "1172763916", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1172763916", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1190288890", "category": "amenities", "false_positive": ["mature trees"], "false_negative": ["hot tub", "patio"]}
+{"listing_id": "1190288890", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1179268100", "category": "amenities", "false_positive": ["home office"], "false_negative": ["garden", "hot tub"]}
+{"listing_id": "1179268100", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["well maintained"]}
+{"listing_id": "1179268100", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["easy access", "near parks", "privacy"]}
+{"listing_id": "1176870562", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": []}
+{"listing_id": "1176870562", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1171720136", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1171720136", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1174681090", "category": "amenities", "false_positive": ["home office", "loft", "mature trees"], "false_negative": ["landscaping"]}
+{"listing_id": "1174681090", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1174681090", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "waterfront"]}
+{"listing_id": "1182397968", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["air conditioning"]}
+{"listing_id": "1182397968", "category": "condition_keywords", "false_positive": [], "false_negative": ["new roof", "remodeled"]}
+{"listing_id": "1177229605", "category": "amenities", "false_positive": ["home office"], "false_negative": []}
+{"listing_id": "1177229605", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1177229605", "category": "location_features", "false_positive": [], "false_negative": ["near shopping"]}
+{"listing_id": "1159265063", "category": "amenities", "false_positive": ["custom cabinetry", "exercise room"], "false_negative": []}
+{"listing_id": "1159265063", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1159265063", "category": "location_features", "false_positive": ["prime location"], "false_negative": ["city views"]}
+{"listing_id": "1158607980", "category": "amenities", "false_positive": ["home office"], "false_negative": ["sauna"]}
+{"listing_id": "1158607980", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1158607980", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1178701935", "category": "amenities", "false_positive": ["updated bathroom"], "false_negative": ["hot tub", "natural light", "pool"]}
+{"listing_id": "1178701935", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled", "well maintained"]}
+{"listing_id": "1158799998", "category": "amenities", "false_positive": ["loft"], "false_negative": []}
+{"listing_id": "1158799998", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1178489952", "category": "amenities", "false_positive": ["home office", "walking trails"], "false_negative": ["clubhouse", "hot tub", "natural light", "playground", "pool"]}
+{"listing_id": "1178489952", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["well maintained"]}
+{"listing_id": "1178489952", "category": "location_features", "false_positive": [], "false_negative": ["quiet neighborhood"]}
+{"listing_id": "1178151519", "category": "amenities", "false_positive": ["home office"], "false_negative": ["built ins", "hot tub", "solar panels"]}
+{"listing_id": "1178151519", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1178151519", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1189220948", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1189220948", "category": "location_features", "false_positive": ["close to"], "false_negative": []}
+{"listing_id": "1176700568", "category": "location_features", "false_positive": ["close to"], "false_negative": []}
+{"listing_id": "1190963773", "category": "amenities", "false_positive": ["custom cabinetry", "double pane windows", "home office"], "false_negative": ["air conditioning", "hot tub"]}
+{"listing_id": "1190963773", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1154099621", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "pool"]}
+{"listing_id": "1154099621", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views"]}
+{"listing_id": "1190359575", "category": "amenities", "false_positive": [], "false_negative": ["playground", "pool"]}
+{"listing_id": "1190359575", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1190359575", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["near parks"]}
+{"listing_id": "1180287801", "category": "amenities", "false_positive": ["loft"], "false_negative": ["deck"]}
+{"listing_id": "1180287801", "category": "location_features", "false_positive": ["close to", "conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1184309592", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1168206568", "category": "amenities", "false_positive": [], "false_negative": ["granite countertops"]}
+{"listing_id": "1168206568", "category": "condition_keywords", "false_positive": ["recently remodeled"], "false_negative": ["new flooring", "new roof", "remodeled"]}
+{"listing_id": "1168206568", "category": "location_features", "false_positive": ["close to"], "false_negative": []}
+{"listing_id": "1178685611", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["built ins", "hot tub", "playground"]}
+{"listing_id": "1178685611", "category": "condition_keywords", "false_positive": ["meticulously maintained"], "false_negative": ["well maintained"]}
+{"listing_id": "1178685611", "category": "location_features", "false_positive": [], "false_negative": ["near parks", "privacy"]}
+{"listing_id": "1156880868", "category": "amenities", "false_positive": ["bonus room", "home office"], "false_negative": []}
+{"listing_id": "1156880868", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1185011722", "category": "condition_keywords", "false_positive": [], "false_negative": ["new roof", "remodeled"]}
+{"listing_id": "1177058601", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "quiet neighborhood"]}
+{"listing_id": "1191045111", "category": "amenities", "false_positive": ["home office", "loft"], "false_negative": []}
+{"listing_id": "1191045111", "category": "location_features", "false_positive": ["close to"], "false_negative": []}
+{"listing_id": "1189513644", "category": "amenities", "false_positive": ["game room"], "false_negative": []}
+{"listing_id": "1189513644", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1189404166", "category": "location_features", "false_positive": ["close to", "conveniently located"], "false_negative": []}
+{"listing_id": "1178503646", "category": "amenities", "false_positive": ["bonus room"], "false_negative": ["air conditioning", "clubhouse", "pool"]}
+{"listing_id": "1178503646", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1178503646", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1179078987", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1179078987", "category": "location_features", "false_positive": ["gated community"], "false_negative": ["privacy"]}
+{"listing_id": "1174727089", "category": "amenities", "false_positive": [], "false_negative": ["air conditioning", "hot tub"]}
+{"listing_id": "1174727089", "category": "location_features", "false_positive": [], "false_negative": ["near shopping"]}
+{"listing_id": "1190353858", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1156869707", "category": "amenities", "false_positive": [], "false_negative": ["backyard", "built ins", "hot tub"]}
+{"listing_id": "1156869707", "category": "location_features", "false_positive": [], "false_negative": ["near shopping"]}
+{"listing_id": "1177638277", "category": "amenities", "false_positive": ["bonus room", "home office"], "false_negative": []}
+{"listing_id": "1177638277", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1190752731", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["built ins", "hot tub", "updated bathroom"]}
+{"listing_id": "1190752731", "category": "condition_keywords", "false_positive": [], "false_negative": ["updated bathroom"]}
+{"listing_id": "1176980985", "category": "location_features", "false_positive": [], "false_negative": ["near shopping"]}
+{"listing_id": "1157732565", "category": "amenities", "false_positive": ["loft"], "false_negative": ["hot tub"]}
+{"listing_id": "1157732565", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1176229726", "category": "amenities", "false_positive": ["recreation center"], "false_negative": ["hot tub", "playground", "pool", "updated bathroom"]}
+{"listing_id": "1176229726", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom", "well maintained"]}
+{"listing_id": "1176229726", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1159171061", "category": "condition_keywords", "false_positive": [], "false_negative": ["fresh paint", "new roof"]}
+{"listing_id": "1159171061", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1176869971", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "landscaping"]}
+{"listing_id": "1176869971", "category": "condition_keywords", "false_positive": ["newly remodeled"], "false_negative": ["remodeled"]}
+{"listing_id": "1173775588", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1173775588", "category": "location_features", "false_positive": ["prime location"], "false_negative": ["near schools", "privacy"]}
+{"listing_id": "1176142704", "category": "amenities", "false_positive": ["sunroom"], "false_negative": []}
+{"listing_id": "1176142704", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1178550610", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1173050712", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["built ins", "patio"]}
+{"listing_id": "1173050712", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1178592183", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "pool"]}
+{"listing_id": "1178272603", "category": "amenities", "false_positive": ["game room", "home office", "loft"], "false_negative": ["home theater"]}
+{"listing_id": "1178272603", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled", "renovated"]}
+{"listing_id": "1178272603", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["near schools"]}
+{"listing_id": "1175513125", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "natural light"]}
+{"listing_id": "1175513125", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1175513125", "category": "location_features", "false_positive": [], "false_negative": ["ocean views"]}
+{"listing_id": "1189919559", "category": "amenities", "false_positive": ["home office"], "false_negative": ["backyard", "garden", "hot tub", "pool"]}
+{"listing_id": "1189919559", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1176659031", "category": "amenities", "false_positive": ["bonus room"], "false_negative": ["guest house", "hot tub"]}
+{"listing_id": "1176659031", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1176659031", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views"]}
+{"listing_id": "1190323116", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": []}
+{"listing_id": "1190323116", "category": "condition_keywords", "false_positive": ["newly remodeled"], "false_negative": ["remodeled"]}
+{"listing_id": "1190323116", "category": "location_features", "false_positive": ["close to"], "false_negative": ["privacy"]}
+{"listing_id": "1190178946", "category": "amenities", "false_positive": [], "false_negative": ["built ins"]}
+{"listing_id": "1190178946", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1189619783", "category": "amenities", "false_positive": ["bonus room"], "false_negative": ["hot tub"]}
+{"listing_id": "1189619783", "category": "condition_keywords", "false_positive": ["meticulously maintained"], "false_negative": ["remodeled", "well maintained"]}
+{"listing_id": "1157039662", "category": "amenities", "false_positive": ["guest suite", "loft", "walk in pantry"], "false_negative": ["built ins", "guest house", "hot tub", "landscaping", "pantry"]}
+{"listing_id": "1157039662", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1189250452", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1177179119", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1177179119", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1177179119", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["ocean views"]}
+{"listing_id": "1173680820", "category": "amenities", "false_positive": ["walk in pantry"], "false_negative": ["built ins", "hot tub", "landscaping", "pantry"]}
+{"listing_id": "1173680820", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1176280524", "category": "condition_keywords", "false_positive": ["meticulously maintained"], "false_negative": ["well maintained"]}
+{"listing_id": "1176280524", "category": "location_features", "false_positive": [], "false_negative": ["near shopping"]}
+{"listing_id": "1190410708", "category": "amenities", "false_positive": ["bonus room"], "false_negative": []}
+{"listing_id": "1190410708", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["new flooring", "new roof"]}
+{"listing_id": "1190410708", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1150860980", "category": "amenities", "false_positive": [], "false_negative": ["built ins"]}
+{"listing_id": "1150860980", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1167029490", "category": "amenities", "false_positive": ["walk in pantry"], "false_negative": ["built ins", "pantry", "security system"]}
+{"listing_id": "1167029490", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1180839925", "category": "amenities", "false_positive": ["home office", "loft"], "false_negative": ["hot tub", "natural light"]}
+{"listing_id": "1180839925", "category": "condition_keywords", "false_positive": ["meticulously maintained"], "false_negative": ["well maintained"]}
+{"listing_id": "1180839925", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1178697176", "category": "condition_keywords", "false_positive": ["newly remodeled", "recently remodeled"], "false_negative": ["remodeled"]}
+{"listing_id": "1178697176", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["easy access"]}
+{"listing_id": "1176777920", "category": "amenities", "false_positive": ["home office", "walk in pantry"], "false_negative": ["built ins", "pantry"]}
+{"listing_id": "1189607146", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "patio", "pool"]}
+{"listing_id": "1190156078", "category": "condition_keywords", "false_positive": ["meticulously maintained"], "false_negative": ["well maintained"]}
+{"listing_id": "1190156078", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1169854459", "category": "amenities", "false_positive": [], "false_negative": ["guest house", "patio"]}
+{"listing_id": "1175519799", "category": "amenities", "false_positive": ["front yard"], "false_negative": []}
+{"listing_id": "1175519799", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["easy access"]}
+{"listing_id": "1190187760", "category": "amenities", "false_positive": ["front yard", "loft"], "false_negative": ["built ins", "quartz countertops"]}
+{"listing_id": "1190187760", "category": "location_features", "false_positive": ["close to"], "false_negative": ["easy access", "near parks"]}
+{"listing_id": "1174803103", "category": "condition_keywords", "false_positive": [], "false_negative": ["renovated"]}
+{"listing_id": "1174803103", "category": "location_features", "false_positive": [], "false_negative": ["ocean views", "privacy"]}
+{"listing_id": "1190700043", "category": "amenities", "false_positive": ["game room", "walking trails"], "false_negative": ["landscaping", "patio"]}
+{"listing_id": "1190700043", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1190700043", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1190729345", "category": "amenities", "false_positive": ["custom cabinetry", "loft"], "false_negative": ["built ins", "deck", "hot tub", "patio"]}
+{"listing_id": "1190729345", "category": "condition_keywords", "false_positive": ["recently remodeled"], "false_negative": ["remodeled", "updated"]}
+{"listing_id": "1190729345", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near shopping", "privacy"]}
+{"listing_id": "1155656790", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1155656790", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": []}
+{"listing_id": "1159304553", "category": "amenities", "false_positive": ["loft", "mature trees"], "false_negative": []}
+{"listing_id": "1159304553", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1191014449", "category": "condition_keywords", "false_positive": [], "false_negative": ["new flooring", "new roof"]}
+{"listing_id": "1191014449", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near schools", "privacy"]}
+{"listing_id": "1151771624", "category": "amenities", "false_positive": ["walk in pantry"], "false_negative": ["pantry"]}
+{"listing_id": "1151771624", "category": "condition_keywords", "false_positive": ["newly built"], "false_negative": ["new construction"]}
+{"listing_id": "1190954124", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1178838943", "category": "condition_keywords", "false_positive": [], "false_negative": ["as is"]}
+{"listing_id": "1178838943", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1176676016", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["deck", "hot tub"]}
+{"listing_id": "1176676016", "category": "condition_keywords", "false_positive": ["newly remodeled"], "false_negative": ["remodeled"]}
+{"listing_id": "1176676016", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1144855165", "category": "amenities", "false_positive": ["front yard"], "false_negative": []}
+{"listing_id": "1144855165", "category": "condition_keywords", "false_positive": ["newly built"], "false_negative": ["new construction", "well maintained"]}
+{"listing_id": "1147391690", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "pool"]}
+{"listing_id": "1147391690", "category": "location_features", "false_positive": ["mountain view"], "false_negative": ["mountain views"]}
+{"listing_id": "1185560775", "category": "amenities", "false_positive": ["home office", "mature trees"], "false_negative": ["hot tub", "landscaping", "new roof", "patio", "storage shed"]}
+{"listing_id": "1185560775", "category": "condition_keywords", "false_positive": [], "false_negative": ["new roof", "updated", "well maintained"]}
+{"listing_id": "1190418083", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1190418083", "category": "condition_keywords", "false_positive": [], "false_negative": ["fresh paint", "new flooring"]}
+{"listing_id": "1190418083", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy"]}
+{"listing_id": "1177354277", "category": "condition_keywords", "false_positive": [], "false_negative": ["new roof", "well maintained"]}
+{"listing_id": "1177354277", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["privacy", "quiet neighborhood"]}
+{"listing_id": "1175554809", "category": "amenities", "false_positive": ["guest house", "home office", "loft", "media room"], "false_negative": ["balcony", "deck", "home theater"]}
+{"listing_id": "1175554809", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "lakefront"]}
+{"listing_id": "1189725041", "category": "location_features", "false_positive": [], "false_negative": ["ocean views"]}
+{"listing_id": "1182554813", "category": "amenities", "false_positive": ["home office"], "false_negative": []}
+{"listing_id": "1182554813", "category": "location_features", "false_positive": ["prime location"], "false_negative": ["ocean views"]}
+{"listing_id": "1178764604", "category": "amenities", "false_positive": [], "false_negative": ["garden", "hot tub", "patio"]}
+{"listing_id": "1178764604", "category": "condition_keywords", "false_positive": ["new paint"], "false_negative": ["fresh paint"]}
+{"listing_id": "1189640313", "category": "amenities", "false_positive": ["air conditioning"], "false_negative": ["built ins", "patio"]}
+{"listing_id": "1189640313", "category": "condition_keywords", "false_positive": ["recently remodeled"], "false_negative": ["fresh paint", "remodeled"]}
+{"listing_id": "1189640313", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1178794368", "category": "amenities", "false_positive": ["home office", "loft", "walk in pantry"], "false_negative": ["built ins", "pantry"]}
+{"listing_id": "1178794368", "category": "location_features", "false_positive": ["near downtown"], "false_negative": []}
+{"listing_id": "1170048187", "category": "amenities", "false_positive": [], "false_negative": ["guest house"]}
+{"listing_id": "1176713634", "category": "amenities", "false_positive": ["exercise room"], "false_negative": ["air conditioning", "backyard", "granite countertops", "hot tub"]}
+{"listing_id": "1176713634", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1176713634", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near schools"]}
+{"listing_id": "1169739439", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "guest house"]}
+{"listing_id": "1176435708", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views"]}
+{"listing_id": "1190583733", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1190583733", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "public transportation"]}
+{"listing_id": "1185690113", "category": "amenities", "false_positive": [], "false_negative": ["ev charging", "guest house", "hot tub", "solar panels"]}
+{"listing_id": "1185690113", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1185690113", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1183808165", "category": "amenities", "false_positive": ["home office", "loft"], "false_negative": ["home theater", "playground"]}
+{"listing_id": "1183808165", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1183808165", "category": "location_features", "false_positive": [], "false_negative": ["near schools"]}
+{"listing_id": "1176679573", "category": "amenities", "false_positive": [], "false_negative": ["backyard"]}
+{"listing_id": "1190594778", "category": "amenities", "false_positive": ["mature trees"], "false_negative": ["garden", "guest house", "landscaping", "patio"]}
+{"listing_id": "1190594778", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1190594778", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1178483638", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1188037349", "category": "amenities", "false_positive": ["home office", "loft"], "false_negative": ["backyard", "patio"]}
+{"listing_id": "1179076531", "category": "amenities", "false_positive": ["bonus room", "home office", "media room"], "false_negative": ["home theater"]}
+{"listing_id": "1179076531", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1178466845", "category": "amenities", "false_positive": ["home office", "sunroom"], "false_negative": ["backyard", "built ins", "clubhouse"]}
+{"listing_id": "1175029869", "category": "condition_keywords", "false_positive": [], "false_negative": ["move in ready"]}
+{"listing_id": "1175029869", "category": "location_features", "false_positive": [], "false_negative": ["near parks"]}
+{"listing_id": "1183285566", "category": "amenities", "false_positive": ["home office"], "false_negative": []}
+{"listing_id": "1182522399", "category": "amenities", "false_positive": ["mature trees"], "false_negative": ["air conditioning"]}
+{"listing_id": "1182522399", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "rural"]}
+{"listing_id": "1158430282", "category": "amenities", "false_positive": [], "false_negative": ["solar panels"]}
+{"listing_id": "1158430282", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1183449538", "category": "amenities", "false_positive": ["air conditioning", "custom cabinetry"], "false_negative": ["hot tub"]}
+{"listing_id": "1183449538", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1183449538", "category": "location_features", "false_positive": [], "false_negative": ["ocean views"]}
+{"listing_id": "1103007335", "category": "amenities", "false_positive": ["hardwood floors", "loft", "mature trees"], "false_negative": ["balcony", "deck", "garden"]}
+{"listing_id": "1103007335", "category": "location_features", "false_positive": [], "false_negative": ["panoramic views"]}
+{"listing_id": "1159661483", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "new roof"]}
+{"listing_id": "1159661483", "category": "condition_keywords", "false_positive": ["fully remodeled", "recently remodeled"], "false_negative": ["new roof", "remodeled"]}
+{"listing_id": "1159661483", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1170085272", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1189497417", "category": "amenities", "false_positive": [], "false_negative": ["hot tub", "patio"]}
+{"listing_id": "1189497417", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near shopping"]}
+{"listing_id": "1172853335", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1172853335", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1190854761", "category": "amenities", "false_positive": ["bonus room", "mature trees"], "false_negative": ["landscaping"]}
+{"listing_id": "1190854761", "category": "condition_keywords", "false_positive": ["recently remodeled"], "false_negative": ["remodeled"]}
+{"listing_id": "1190150782", "category": "amenities", "false_positive": [], "false_negative": ["balcony"]}
+{"listing_id": "1190150782", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1179259702", "category": "amenities", "false_positive": [], "false_negative": ["natural light"]}
+{"listing_id": "1188665121", "category": "amenities", "false_positive": ["front yard"], "false_negative": ["fire pit", "guest house", "hot tub"]}
+{"listing_id": "1188665121", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1156424805", "category": "amenities", "false_positive": [], "false_negative": ["granite countertops"]}
+{"listing_id": "1156424805", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1178718501", "category": "amenities", "false_positive": ["loft", "walk in pantry"], "false_negative": ["built ins", "fire pit", "hot tub", "pantry"]}
+{"listing_id": "1178718501", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["near schools"]}
+{"listing_id": "1178586608", "category": "amenities", "false_positive": ["home office", "loft"], "false_negative": ["air conditioning"]}
+{"listing_id": "1178586608", "category": "condition_keywords", "false_positive": ["move in ready"], "false_negative": ["updated bathroom", "well maintained"]}
+{"listing_id": "1178586608", "category": "location_features", "false_positive": [], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1183709172", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1183709172", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1181490073", "category": "amenities", "false_positive": [], "false_negative": ["natural light"]}
+{"listing_id": "1181490073", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1155897119", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "landscaping", "workshop"]}
+{"listing_id": "1155897119", "category": "condition_keywords", "false_positive": ["new paint"], "false_negative": ["fresh paint"]}
+{"listing_id": "1155897119", "category": "location_features", "false_positive": [], "false_negative": ["privacy", "rural"]}
+{"listing_id": "1185169588", "category": "amenities", "false_positive": ["game room", "guest house"], "false_negative": ["deck", "hot tub"]}
+{"listing_id": "1185169588", "category": "location_features", "false_positive": [], "false_negative": ["ocean views", "privacy"]}
+{"listing_id": "1190148591", "category": "location_features", "false_positive": [], "false_negative": ["walking distance"]}
+{"listing_id": "1190431778", "category": "amenities", "false_positive": ["loft"], "false_negative": []}
+{"listing_id": "1190431778", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled", "updated bathroom"]}
+{"listing_id": "1190431778", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near restaurants"]}
+{"listing_id": "1159869971", "category": "location_features", "false_positive": ["prime location"], "false_negative": ["easy access", "near restaurants"]}
+{"listing_id": "1190157585", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1184336733", "category": "amenities", "false_positive": [], "false_negative": ["playground"]}
+{"listing_id": "1184336733", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["easy access", "privacy"]}
+{"listing_id": "1190472612", "category": "amenities", "false_positive": [], "false_negative": ["granite countertops"]}
+{"listing_id": "1190472612", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1176674538", "category": "location_features", "false_positive": ["close to"], "false_negative": ["near shopping"]}
+{"listing_id": "1157843756", "category": "amenities", "false_positive": ["loft", "sunroom"], "false_negative": []}
+{"listing_id": "1157843756", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1157843756", "category": "location_features", "false_positive": ["close to"], "false_negative": ["privacy"]}
+{"listing_id": "1189621054", "category": "amenities", "false_positive": [], "false_negative": ["new appliances"]}
+{"listing_id": "1189621054", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1178012102", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1158260415", "category": "amenities", "false_positive": ["walking trails"], "false_negative": ["pool"]}
+{"listing_id": "1158260415", "category": "location_features", "false_positive": ["close to"], "false_negative": ["easy access"]}
+{"listing_id": "1176007026", "category": "amenities", "false_positive": [], "false_negative": ["guest house"]}
+{"listing_id": "1179514261", "category": "amenities", "false_positive": ["game room", "home office", "loft"], "false_negative": []}
+{"listing_id": "1179514261", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1179514261", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1172243845", "category": "amenities", "false_positive": [], "false_negative": ["patio", "storage shed"]}
+{"listing_id": "1179221641", "category": "amenities", "false_positive": ["loft"], "false_negative": []}
+{"listing_id": "1179221641", "category": "condition_keywords", "false_positive": [], "false_negative": ["well maintained"]}
+{"listing_id": "1179221641", "category": "location_features", "false_positive": ["near downtown"], "false_negative": ["downtown", "easy access"]}
+{"listing_id": "1109229895", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": ["walking distance"]}
+{"listing_id": "1190441064", "category": "amenities", "false_positive": [], "false_negative": ["built ins"]}
+{"listing_id": "1190441064", "category": "condition_keywords", "false_positive": [], "false_negative": ["fresh paint", "new roof"]}
+{"listing_id": "1190429390", "category": "location_features", "false_positive": ["mountain view"], "false_negative": ["easy access", "mountain views"]}
+{"listing_id": "1176685708", "category": "amenities", "false_positive": ["custom cabinetry", "mature trees"], "false_negative": ["air conditioning", "garden", "updated bathroom"]}
+{"listing_id": "1176685708", "category": "condition_keywords", "false_positive": [], "false_negative": ["updated bathroom"]}
+{"listing_id": "1176685708", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1182997752", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "hot tub"]}
+{"listing_id": "1182997752", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
+{"listing_id": "1190571129", "category": "amenities", "false_positive": [], "false_negative": ["built ins", "patio"]}
+{"listing_id": "1174168125", "category": "amenities", "false_positive": ["custom cabinetry"], "false_negative": ["built ins"]}
+{"listing_id": "1174168125", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1174168125", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1180153168", "category": "amenities", "false_positive": ["front yard", "home office"], "false_negative": ["hot tub", "solar panels"]}
+{"listing_id": "1180153168", "category": "condition_keywords", "false_positive": [], "false_negative": ["remodeled"]}
+{"listing_id": "1180153168", "category": "location_features", "false_positive": [], "false_negative": ["privacy"]}
+{"listing_id": "1159566527", "category": "amenities", "false_positive": [], "false_negative": ["hot tub"]}
+{"listing_id": "1159566527", "category": "location_features", "false_positive": [], "false_negative": ["rural"]}
+{"listing_id": "1189476242", "category": "amenities", "false_positive": [], "false_negative": ["balcony", "natural light"]}
+{"listing_id": "1189476242", "category": "location_features", "false_positive": [], "false_negative": ["easy access"]}
+{"listing_id": "1176845319", "category": "location_features", "false_positive": ["conveniently located"], "false_negative": []}
