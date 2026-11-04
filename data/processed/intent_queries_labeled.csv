@@ -1,0 +1,361 @@
+id,query,intent,template_group,source
+W7-0001,show me homes in San Diego,browsing,browsing:00,curated_synthetic
+W7-0002,show me homes in Long Beach,browsing,browsing:00,curated_synthetic
+W7-0003,show me homes in Santa Ana,browsing,browsing:00,curated_synthetic
+W7-0004,show me homes in Newport Beach,browsing,browsing:00,curated_synthetic
+W7-0005,show me homes in Laguna Beach,browsing,browsing:00,curated_synthetic
+W7-0006,show me homes in Orange,browsing,browsing:00,curated_synthetic
+W7-0007,show me homes in Los Angeles,browsing,browsing:00,curated_synthetic
+W7-0008,show me homes in Irvine,browsing,browsing:00,curated_synthetic
+W7-0009,browse houses around Newport Beach,browsing,browsing:01,curated_synthetic
+W7-0010,browse houses around Laguna Beach,browsing,browsing:01,curated_synthetic
+W7-0011,browse houses around Orange,browsing,browsing:01,curated_synthetic
+W7-0012,browse houses around Los Angeles,browsing,browsing:01,curated_synthetic
+W7-0013,browse houses around Irvine,browsing,browsing:01,curated_synthetic
+W7-0014,browse houses around Pasadena,browsing,browsing:01,curated_synthetic
+W7-0015,browse houses around Oceanside,browsing,browsing:01,curated_synthetic
+W7-0016,browse houses around Tustin,browsing,browsing:01,curated_synthetic
+W7-0017,what properties are listed in Los Angeles,browsing,browsing:02,curated_synthetic
+W7-0018,what properties are listed in Irvine,browsing,browsing:02,curated_synthetic
+W7-0019,what properties are listed in Pasadena,browsing,browsing:02,curated_synthetic
+W7-0020,what properties are listed in Oceanside,browsing,browsing:02,curated_synthetic
+W7-0021,what properties are listed in Tustin,browsing,browsing:02,curated_synthetic
+W7-0022,what properties are listed in Huntington Beach,browsing,browsing:02,curated_synthetic
+W7-0023,what properties are listed in Fullerton,browsing,browsing:02,curated_synthetic
+W7-0024,what properties are listed in San Clemente,browsing,browsing:02,curated_synthetic
+W7-0025,explore condos in Oceanside,browsing,browsing:03,curated_synthetic
+W7-0026,explore condos in Tustin,browsing,browsing:03,curated_synthetic
+W7-0027,explore condos in Huntington Beach,browsing,browsing:03,curated_synthetic
+W7-0028,explore condos in Fullerton,browsing,browsing:03,curated_synthetic
+W7-0029,explore condos in San Clemente,browsing,browsing:03,curated_synthetic
+W7-0030,explore condos in Beverly Hills,browsing,browsing:03,curated_synthetic
+W7-0031,explore condos in Anaheim,browsing,browsing:03,curated_synthetic
+W7-0032,explore condos in Costa Mesa,browsing,browsing:03,curated_synthetic
+W7-0033,find homes with mountain views in Fullerton,browsing,browsing:04,curated_synthetic
+W7-0034,find homes with solar panels in San Clemente,browsing,browsing:04,curated_synthetic
+W7-0035,find homes with hardwood floors in Beverly Hills,browsing,browsing:04,curated_synthetic
+W7-0036,find homes with a balcony in Anaheim,browsing,browsing:04,curated_synthetic
+W7-0037,find homes with a patio in Costa Mesa,browsing,browsing:04,curated_synthetic
+W7-0038,find homes with a guest house in Carlsbad,browsing,browsing:04,curated_synthetic
+W7-0039,find homes with a large kitchen in Riverside,browsing,browsing:04,curated_synthetic
+W7-0040,find homes with a garden in Chula Vista,browsing,browsing:04,curated_synthetic
+W7-0041,show me new construction properties in Anaheim,browsing,browsing:05,curated_synthetic
+W7-0042,show me coastal properties in Costa Mesa,browsing,browsing:05,curated_synthetic
+W7-0043,show me ranch style properties in Carlsbad,browsing,browsing:05,curated_synthetic
+W7-0044,show me townhouse properties in Riverside,browsing,browsing:05,curated_synthetic
+W7-0045,show me spacious properties in Chula Vista,browsing,browsing:05,curated_synthetic
+W7-0046,show me luxury properties in San Diego,browsing,browsing:05,curated_synthetic
+W7-0047,show me modern properties in Long Beach,browsing,browsing:05,curated_synthetic
+W7-0048,show me single family properties in Santa Ana,browsing,browsing:05,curated_synthetic
+W7-0049,any nice homes around Riverside,browsing,browsing:06,curated_synthetic
+W7-0050,any nice homes around Chula Vista,browsing,browsing:06,curated_synthetic
+W7-0051,any nice homes around San Diego,browsing,browsing:06,curated_synthetic
+W7-0052,any nice homes around Long Beach,browsing,browsing:06,curated_synthetic
+W7-0053,any nice homes around Santa Ana,browsing,browsing:06,curated_synthetic
+W7-0054,any nice homes around Newport Beach,browsing,browsing:06,curated_synthetic
+W7-0055,any nice homes around Laguna Beach,browsing,browsing:06,curated_synthetic
+W7-0056,any nice homes around Orange,browsing,browsing:06,curated_synthetic
+W7-0057,list houses with mountain views,browsing,browsing:07,curated_synthetic
+W7-0058,list houses with solar panels,browsing,browsing:07,curated_synthetic
+W7-0059,list houses with hardwood floors,browsing,browsing:07,curated_synthetic
+W7-0060,list houses with a balcony,browsing,browsing:07,curated_synthetic
+W7-0061,list houses with a patio,browsing,browsing:07,curated_synthetic
+W7-0062,list houses with a guest house,browsing,browsing:07,curated_synthetic
+W7-0063,list houses with a large kitchen,browsing,browsing:07,curated_synthetic
+W7-0064,list houses with a garden,browsing,browsing:07,curated_synthetic
+W7-0065,looking around for homes in Laguna Beach,browsing,browsing:08,curated_synthetic
+W7-0066,looking around for homes in Orange,browsing,browsing:08,curated_synthetic
+W7-0067,looking around for homes in Los Angeles,browsing,browsing:08,curated_synthetic
+W7-0068,looking around for homes in Irvine,browsing,browsing:08,curated_synthetic
+W7-0069,looking around for homes in Pasadena,browsing,browsing:08,curated_synthetic
+W7-0070,looking around for homes in Oceanside,browsing,browsing:08,curated_synthetic
+W7-0071,looking around for homes in Tustin,browsing,browsing:08,curated_synthetic
+W7-0072,looking around for homes in Huntington Beach,browsing,browsing:08,curated_synthetic
+W7-0073,show all available homes in Irvine,browsing,browsing:09,curated_synthetic
+W7-0074,show all available homes in Pasadena,browsing,browsing:09,curated_synthetic
+W7-0075,show all available homes in Oceanside,browsing,browsing:09,curated_synthetic
+W7-0076,show all available homes in Tustin,browsing,browsing:09,curated_synthetic
+W7-0077,show all available homes in Huntington Beach,browsing,browsing:09,curated_synthetic
+W7-0078,show all available homes in Fullerton,browsing,browsing:09,curated_synthetic
+W7-0079,show all available homes in San Clemente,browsing,browsing:09,curated_synthetic
+W7-0080,show all available homes in Beverly Hills,browsing,browsing:09,curated_synthetic
+W7-0081,what types of homes are for sale in Tustin,browsing,browsing:10,curated_synthetic
+W7-0082,what types of homes are for sale in Huntington Beach,browsing,browsing:10,curated_synthetic
+W7-0083,what types of homes are for sale in Fullerton,browsing,browsing:10,curated_synthetic
+W7-0084,what types of homes are for sale in San Clemente,browsing,browsing:10,curated_synthetic
+W7-0085,what types of homes are for sale in Beverly Hills,browsing,browsing:10,curated_synthetic
+W7-0086,what types of homes are for sale in Anaheim,browsing,browsing:10,curated_synthetic
+W7-0087,what types of homes are for sale in Costa Mesa,browsing,browsing:10,curated_synthetic
+W7-0088,what types of homes are for sale in Carlsbad,browsing,browsing:10,curated_synthetic
+W7-0089,I am just exploring listings around San Clemente,browsing,browsing:11,curated_synthetic
+W7-0090,I am just exploring listings around Beverly Hills,browsing,browsing:11,curated_synthetic
+W7-0091,I am just exploring listings around Anaheim,browsing,browsing:11,curated_synthetic
+W7-0092,I am just exploring listings around Costa Mesa,browsing,browsing:11,curated_synthetic
+W7-0093,I am just exploring listings around Carlsbad,browsing,browsing:11,curated_synthetic
+W7-0094,I am just exploring listings around Riverside,browsing,browsing:11,curated_synthetic
+W7-0095,I am just exploring listings around Chula Vista,browsing,browsing:11,curated_synthetic
+W7-0096,I am just exploring listings around San Diego,browsing,browsing:11,curated_synthetic
+W7-0097,let me see properties in Costa Mesa,browsing,browsing:12,curated_synthetic
+W7-0098,let me see properties in Carlsbad,browsing,browsing:12,curated_synthetic
+W7-0099,let me see properties in Riverside,browsing,browsing:12,curated_synthetic
+W7-0100,let me see properties in Chula Vista,browsing,browsing:12,curated_synthetic
+W7-0101,let me see properties in San Diego,browsing,browsing:12,curated_synthetic
+W7-0102,let me see properties in Long Beach,browsing,browsing:12,curated_synthetic
+W7-0103,let me see properties in Santa Ana,browsing,browsing:12,curated_synthetic
+W7-0104,let me see properties in Newport Beach,browsing,browsing:12,curated_synthetic
+W7-0105,browse two story homes with mountain views,browsing,browsing:13,curated_synthetic
+W7-0106,browse starter homes with solar panels,browsing,browsing:13,curated_synthetic
+W7-0107,browse new construction homes with hardwood floors,browsing,browsing:13,curated_synthetic
+W7-0108,browse coastal homes with a balcony,browsing,browsing:13,curated_synthetic
+W7-0109,browse ranch style homes with a patio,browsing,browsing:13,curated_synthetic
+W7-0110,browse townhouse homes with a guest house,browsing,browsing:13,curated_synthetic
+W7-0111,browse spacious homes with a large kitchen,browsing,browsing:13,curated_synthetic
+W7-0112,browse luxury homes with a garden,browsing,browsing:13,curated_synthetic
+W7-0113,what is on the market near Santa Ana,browsing,browsing:14,curated_synthetic
+W7-0114,what is on the market near Newport Beach,browsing,browsing:14,curated_synthetic
+W7-0115,what is on the market near Laguna Beach,browsing,browsing:14,curated_synthetic
+W7-0116,what is on the market near Orange,browsing,browsing:14,curated_synthetic
+W7-0117,what is on the market near Los Angeles,browsing,browsing:14,curated_synthetic
+W7-0118,what is on the market near Irvine,browsing,browsing:14,curated_synthetic
+W7-0119,what is on the market near Pasadena,browsing,browsing:14,curated_synthetic
+W7-0120,what is on the market near Oceanside,browsing,browsing:14,curated_synthetic
+W7-0121,compare HOA fees for condos in San Diego,researching,researching:00,curated_synthetic
+W7-0122,compare HOA fees for condos in Long Beach,researching,researching:00,curated_synthetic
+W7-0123,compare HOA fees for condos in Santa Ana,researching,researching:00,curated_synthetic
+W7-0124,compare HOA fees for condos in Newport Beach,researching,researching:00,curated_synthetic
+W7-0125,compare HOA fees for condos in Laguna Beach,researching,researching:00,curated_synthetic
+W7-0126,compare HOA fees for condos in Orange,researching,researching:00,curated_synthetic
+W7-0127,compare HOA fees for condos in Los Angeles,researching,researching:00,curated_synthetic
+W7-0128,compare HOA fees for condos in Irvine,researching,researching:00,curated_synthetic
+W7-0129,what are typical property taxes in Newport Beach,researching,researching:01,curated_synthetic
+W7-0130,what are typical property taxes in Laguna Beach,researching,researching:01,curated_synthetic
+W7-0131,what are typical property taxes in Orange,researching,researching:01,curated_synthetic
+W7-0132,what are typical property taxes in Los Angeles,researching,researching:01,curated_synthetic
+W7-0133,what are typical property taxes in Irvine,researching,researching:01,curated_synthetic
+W7-0134,what are typical property taxes in Pasadena,researching,researching:01,curated_synthetic
+W7-0135,what are typical property taxes in Oceanside,researching,researching:01,curated_synthetic
+W7-0136,what are typical property taxes in Tustin,researching,researching:01,curated_synthetic
+W7-0137,which neighborhoods in Los Angeles have good transit,researching,researching:02,curated_synthetic
+W7-0138,which neighborhoods in Irvine have good transit,researching,researching:02,curated_synthetic
+W7-0139,which neighborhoods in Pasadena have good transit,researching,researching:02,curated_synthetic
+W7-0140,which neighborhoods in Oceanside have good transit,researching,researching:02,curated_synthetic
+W7-0141,which neighborhoods in Tustin have good transit,researching,researching:02,curated_synthetic
+W7-0142,which neighborhoods in Huntington Beach have good transit,researching,researching:02,curated_synthetic
+W7-0143,which neighborhoods in Fullerton have good transit,researching,researching:02,curated_synthetic
+W7-0144,which neighborhoods in San Clemente have good transit,researching,researching:02,curated_synthetic
+W7-0145,how much do homes with a pool cost in Oceanside,researching,researching:03,curated_synthetic
+W7-0146,how much do homes with a fireplace cost in Tustin,researching,researching:03,curated_synthetic
+W7-0147,how much do homes with a garage cost in Huntington Beach,researching,researching:03,curated_synthetic
+W7-0148,how much do homes with a backyard cost in Fullerton,researching,researching:03,curated_synthetic
+W7-0149,how much do homes with a home office cost in San Clemente,researching,researching:03,curated_synthetic
+W7-0150,how much do homes with mountain views cost in Beverly Hills,researching,researching:03,curated_synthetic
+W7-0151,how much do homes with solar panels cost in Anaheim,researching,researching:03,curated_synthetic
+W7-0152,how much do homes with hardwood floors cost in Costa Mesa,researching,researching:03,curated_synthetic
+W7-0153,is Fullerton a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0154,is San Clemente a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0155,is Beverly Hills a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0156,is Anaheim a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0157,is Costa Mesa a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0158,is Carlsbad a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0159,is Riverside a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0160,is Chula Vista a good place for first time buyers,researching,researching:04,curated_synthetic
+W7-0161,compare condos and townhouses in Anaheim,researching,researching:05,curated_synthetic
+W7-0162,compare condos and townhouses in Costa Mesa,researching,researching:05,curated_synthetic
+W7-0163,compare condos and townhouses in Carlsbad,researching,researching:05,curated_synthetic
+W7-0164,compare condos and townhouses in Riverside,researching,researching:05,curated_synthetic
+W7-0165,compare condos and townhouses in Chula Vista,researching,researching:05,curated_synthetic
+W7-0166,compare condos and townhouses in San Diego,researching,researching:05,curated_synthetic
+W7-0167,compare condos and townhouses in Long Beach,researching,researching:05,curated_synthetic
+W7-0168,compare condos and townhouses in Santa Ana,researching,researching:05,curated_synthetic
+W7-0169,what is the average price per square foot in Riverside,researching,researching:06,curated_synthetic
+W7-0170,what is the average price per square foot in Chula Vista,researching,researching:06,curated_synthetic
+W7-0171,what is the average price per square foot in San Diego,researching,researching:06,curated_synthetic
+W7-0172,what is the average price per square foot in Long Beach,researching,researching:06,curated_synthetic
+W7-0173,what is the average price per square foot in Santa Ana,researching,researching:06,curated_synthetic
+W7-0174,what is the average price per square foot in Newport Beach,researching,researching:06,curated_synthetic
+W7-0175,what is the average price per square foot in Laguna Beach,researching,researching:06,curated_synthetic
+W7-0176,what is the average price per square foot in Orange,researching,researching:06,curated_synthetic
+W7-0177,research school districts near Long Beach,researching,researching:07,curated_synthetic
+W7-0178,research school districts near Santa Ana,researching,researching:07,curated_synthetic
+W7-0179,research school districts near Newport Beach,researching,researching:07,curated_synthetic
+W7-0180,research school districts near Laguna Beach,researching,researching:07,curated_synthetic
+W7-0181,research school districts near Orange,researching,researching:07,curated_synthetic
+W7-0182,research school districts near Los Angeles,researching,researching:07,curated_synthetic
+W7-0183,research school districts near Irvine,researching,researching:07,curated_synthetic
+W7-0184,research school districts near Pasadena,researching,researching:07,curated_synthetic
+W7-0185,how have home prices changed in Laguna Beach,researching,researching:08,curated_synthetic
+W7-0186,how have home prices changed in Orange,researching,researching:08,curated_synthetic
+W7-0187,how have home prices changed in Los Angeles,researching,researching:08,curated_synthetic
+W7-0188,how have home prices changed in Irvine,researching,researching:08,curated_synthetic
+W7-0189,how have home prices changed in Pasadena,researching,researching:08,curated_synthetic
+W7-0190,how have home prices changed in Oceanside,researching,researching:08,curated_synthetic
+W7-0191,how have home prices changed in Tustin,researching,researching:08,curated_synthetic
+W7-0192,how have home prices changed in Huntington Beach,researching,researching:08,curated_synthetic
+W7-0193,what should I know about HOA rules in Irvine,researching,researching:09,curated_synthetic
+W7-0194,what should I know about HOA rules in Pasadena,researching,researching:09,curated_synthetic
+W7-0195,what should I know about HOA rules in Oceanside,researching,researching:09,curated_synthetic
+W7-0196,what should I know about HOA rules in Tustin,researching,researching:09,curated_synthetic
+W7-0197,what should I know about HOA rules in Huntington Beach,researching,researching:09,curated_synthetic
+W7-0198,what should I know about HOA rules in Fullerton,researching,researching:09,curated_synthetic
+W7-0199,what should I know about HOA rules in San Clemente,researching,researching:09,curated_synthetic
+W7-0200,what should I know about HOA rules in Beverly Hills,researching,researching:09,curated_synthetic
+W7-0201,which areas near Tustin are walkable,researching,researching:10,curated_synthetic
+W7-0202,which areas near Huntington Beach are walkable,researching,researching:10,curated_synthetic
+W7-0203,which areas near Fullerton are walkable,researching,researching:10,curated_synthetic
+W7-0204,which areas near San Clemente are walkable,researching,researching:10,curated_synthetic
+W7-0205,which areas near Beverly Hills are walkable,researching,researching:10,curated_synthetic
+W7-0206,which areas near Anaheim are walkable,researching,researching:10,curated_synthetic
+W7-0207,which areas near Costa Mesa are walkable,researching,researching:10,curated_synthetic
+W7-0208,which areas near Carlsbad are walkable,researching,researching:10,curated_synthetic
+W7-0209,compare property values in San Clemente versus Santa Ana,researching,researching:11,curated_synthetic
+W7-0210,compare property values in Beverly Hills versus Newport Beach,researching,researching:11,curated_synthetic
+W7-0211,compare property values in Anaheim versus Laguna Beach,researching,researching:11,curated_synthetic
+W7-0212,compare property values in Costa Mesa versus Orange,researching,researching:11,curated_synthetic
+W7-0213,compare property values in Carlsbad versus Los Angeles,researching,researching:11,curated_synthetic
+W7-0214,compare property values in Riverside versus Irvine,researching,researching:11,curated_synthetic
+W7-0215,compare property values in Chula Vista versus Pasadena,researching,researching:11,curated_synthetic
+W7-0216,compare property values in San Diego versus Oceanside,researching,researching:11,curated_synthetic
+W7-0217,explain closing costs for buying in Costa Mesa,researching,researching:12,curated_synthetic
+W7-0218,explain closing costs for buying in Carlsbad,researching,researching:12,curated_synthetic
+W7-0219,explain closing costs for buying in Riverside,researching,researching:12,curated_synthetic
+W7-0220,explain closing costs for buying in Chula Vista,researching,researching:12,curated_synthetic
+W7-0221,explain closing costs for buying in San Diego,researching,researching:12,curated_synthetic
+W7-0222,explain closing costs for buying in Long Beach,researching,researching:12,curated_synthetic
+W7-0223,explain closing costs for buying in Santa Ana,researching,researching:12,curated_synthetic
+W7-0224,explain closing costs for buying in Newport Beach,researching,researching:12,curated_synthetic
+W7-0225,are there flood risks for homes in Chula Vista,researching,researching:13,curated_synthetic
+W7-0226,are there flood risks for homes in San Diego,researching,researching:13,curated_synthetic
+W7-0227,are there flood risks for homes in Long Beach,researching,researching:13,curated_synthetic
+W7-0228,are there flood risks for homes in Santa Ana,researching,researching:13,curated_synthetic
+W7-0229,are there flood risks for homes in Newport Beach,researching,researching:13,curated_synthetic
+W7-0230,are there flood risks for homes in Laguna Beach,researching,researching:13,curated_synthetic
+W7-0231,are there flood risks for homes in Orange,researching,researching:13,curated_synthetic
+W7-0232,are there flood risks for homes in Los Angeles,researching,researching:13,curated_synthetic
+W7-0233,what is the resale value of homes with a guest house,researching,researching:14,curated_synthetic
+W7-0234,what is the resale value of homes with a large kitchen,researching,researching:14,curated_synthetic
+W7-0235,what is the resale value of homes with a garden,researching,researching:14,curated_synthetic
+W7-0236,what is the resale value of homes with a walk in closet,researching,researching:14,curated_synthetic
+W7-0237,what is the resale value of homes with a finished basement,researching,researching:14,curated_synthetic
+W7-0238,what is the resale value of homes with a pool,researching,researching:14,curated_synthetic
+W7-0239,what is the resale value of homes with a fireplace,researching,researching:14,curated_synthetic
+W7-0240,what is the resale value of homes with a garage,researching,researching:14,curated_synthetic
+W7-0241,schedule a tour of homes in San Diego this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0242,schedule a tour of homes in Long Beach this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0243,schedule a tour of homes in Santa Ana this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0244,schedule a tour of homes in Newport Beach this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0245,schedule a tour of homes in Laguna Beach this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0246,schedule a tour of homes in Orange this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0247,schedule a tour of homes in Los Angeles this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0248,schedule a tour of homes in Irvine this weekend,high_intent_inquiry,high_intent_inquiry:00,curated_synthetic
+W7-0249,book a showing for a modern home in Newport Beach,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0250,book a showing for a single family home in Laguna Beach,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0251,book a showing for a two story home in Orange,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0252,book a showing for a starter home in Los Angeles,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0253,book a showing for a new construction home in Irvine,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0254,book a showing for a coastal home in Pasadena,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0255,book a showing for a ranch style home in Oceanside,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0256,book a showing for a townhouse home in Tustin,high_intent_inquiry,high_intent_inquiry:01,curated_synthetic
+W7-0257,contact the listing agent about a home with a guest house in Los Angeles,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0258,contact the listing agent about a home with a large kitchen in Irvine,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0259,contact the listing agent about a home with a garden in Pasadena,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0260,contact the listing agent about a home with a walk in closet in Oceanside,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0261,contact the listing agent about a home with a finished basement in Tustin,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0262,contact the listing agent about a home with a pool in Huntington Beach,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0263,contact the listing agent about a home with a fireplace in Fullerton,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0264,contact the listing agent about a home with a garage in San Clemente,high_intent_inquiry,high_intent_inquiry:02,curated_synthetic
+W7-0265,I want to make an offer on a house in Oceanside,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0266,I want to make an offer on a house in Tustin,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0267,I want to make an offer on a house in Huntington Beach,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0268,I want to make an offer on a house in Fullerton,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0269,I want to make an offer on a house in San Clemente,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0270,I want to make an offer on a house in Beverly Hills,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0271,I want to make an offer on a house in Anaheim,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0272,I want to make an offer on a house in Costa Mesa,high_intent_inquiry,high_intent_inquiry:03,curated_synthetic
+W7-0273,show open houses in Fullerton tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0274,show open houses in San Clemente tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0275,show open houses in Beverly Hills tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0276,show open houses in Anaheim tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0277,show open houses in Costa Mesa tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0278,show open houses in Carlsbad tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0279,show open houses in Riverside tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0280,show open houses in Chula Vista tomorrow,high_intent_inquiry,high_intent_inquiry:04,curated_synthetic
+W7-0281,find move in ready homes in Anaheim under $1m,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0282,find move in ready homes in Costa Mesa under $750k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0283,find move in ready homes in Carlsbad under $950k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0284,find move in ready homes in Riverside under $1.5m,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0285,find move in ready homes in Chula Vista under $800k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0286,find move in ready homes in San Diego under $700k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0287,find move in ready homes in Long Beach under $850k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0288,find move in ready homes in Santa Ana under $900k,high_intent_inquiry,high_intent_inquiry:05,curated_synthetic
+W7-0289,can I see available homes today in Riverside,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0290,can I see available homes today in Chula Vista,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0291,can I see available homes today in San Diego,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0292,can I see available homes today in Long Beach,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0293,can I see available homes today in Santa Ana,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0294,can I see available homes today in Newport Beach,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0295,can I see available homes today in Laguna Beach,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0296,can I see available homes today in Orange,high_intent_inquiry,high_intent_inquiry:06,curated_synthetic
+W7-0297,arrange a viewing for a condo in Long Beach,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0298,arrange a viewing for a condo in Santa Ana,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0299,arrange a viewing for a condo in Newport Beach,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0300,arrange a viewing for a condo in Laguna Beach,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0301,arrange a viewing for a condo in Orange,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0302,arrange a viewing for a condo in Los Angeles,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0303,arrange a viewing for a condo in Irvine,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0304,arrange a viewing for a condo in Pasadena,high_intent_inquiry,high_intent_inquiry:07,curated_synthetic
+W7-0305,need a home in Laguna Beach ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0306,need a home in Orange ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0307,need a home in Los Angeles ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0308,need a home in Irvine ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0309,need a home in Pasadena ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0310,need a home in Oceanside ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0311,need a home in Tustin ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0312,need a home in Huntington Beach ready to close this month,high_intent_inquiry,high_intent_inquiry:08,curated_synthetic
+W7-0313,connect me with the seller for a house in Irvine,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0314,connect me with the seller for a house in Pasadena,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0315,connect me with the seller for a house in Oceanside,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0316,connect me with the seller for a house in Tustin,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0317,connect me with the seller for a house in Huntington Beach,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0318,connect me with the seller for a house in Fullerton,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0319,connect me with the seller for a house in San Clemente,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0320,connect me with the seller for a house in Beverly Hills,high_intent_inquiry,high_intent_inquiry:09,curated_synthetic
+W7-0321,get details to apply for financing on a home in Tustin,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0322,get details to apply for financing on a home in Huntington Beach,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0323,get details to apply for financing on a home in Fullerton,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0324,get details to apply for financing on a home in San Clemente,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0325,get details to apply for financing on a home in Beverly Hills,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0326,get details to apply for financing on a home in Anaheim,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0327,get details to apply for financing on a home in Costa Mesa,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0328,get details to apply for financing on a home in Carlsbad,high_intent_inquiry,high_intent_inquiry:10,curated_synthetic
+W7-0329,I am ready to tour homes with a guest house in San Clemente,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0330,I am ready to tour homes with a large kitchen in Beverly Hills,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0331,I am ready to tour homes with a garden in Anaheim,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0332,I am ready to tour homes with a walk in closet in Costa Mesa,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0333,I am ready to tour homes with a finished basement in Carlsbad,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0334,I am ready to tour homes with a pool in Riverside,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0335,I am ready to tour homes with a fireplace in Chula Vista,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0336,I am ready to tour homes with a garage in San Diego,high_intent_inquiry,high_intent_inquiry:11,curated_synthetic
+W7-0337,which Costa Mesa homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0338,which Carlsbad homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0339,which Riverside homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0340,which Chula Vista homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0341,which San Diego homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0342,which Long Beach homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0343,which Santa Ana homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0344,which Newport Beach homes can I visit this Saturday,high_intent_inquiry,high_intent_inquiry:12,curated_synthetic
+W7-0345,I need to purchase a home in Chula Vista before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0346,I need to purchase a home in San Diego before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0347,I need to purchase a home in Long Beach before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0348,I need to purchase a home in Santa Ana before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0349,I need to purchase a home in Newport Beach before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0350,I need to purchase a home in Laguna Beach before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0351,I need to purchase a home in Orange before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0352,I need to purchase a home in Los Angeles before next month,high_intent_inquiry,high_intent_inquiry:13,curated_synthetic
+W7-0353,request a showing for new listings in Santa Ana,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0354,request a showing for new listings in Newport Beach,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0355,request a showing for new listings in Laguna Beach,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0356,request a showing for new listings in Orange,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0357,request a showing for new listings in Los Angeles,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0358,request a showing for new listings in Irvine,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0359,request a showing for new listings in Pasadena,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic
+W7-0360,request a showing for new listings in Oceanside,high_intent_inquiry,high_intent_inquiry:14,curated_synthetic

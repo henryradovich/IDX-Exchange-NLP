@@ -1,0 +1,158 @@
+{
+  "dataset": "data/processed/intent_queries_labeled.csv",
+  "source_types": {
+    "curated_synthetic": 360
+  },
+  "test_method": "GroupShuffleSplit(template_group) with seed 42 by default; model selected by GroupKFold within train only",
+  "train_count": 264,
+  "test_count": 96,
+  "train_class_counts": {
+    "browsing": 80,
+    "researching": 88,
+    "high_intent_inquiry": 96
+  },
+  "test_class_counts": {
+    "browsing": 40,
+    "researching": 32,
+    "high_intent_inquiry": 24
+  },
+  "train_groups": 33,
+  "test_groups": 12,
+  "model_selection_train_only": [
+    {
+      "name": "word_tfidf_only",
+      "max_features": 500,
+      "use_cues": false,
+      "cue_weight": 0.0,
+      "C": 1.0,
+      "cv_mean_accuracy": 0.532118,
+      "cv_mean_macro_f1": 0.487352,
+      "cv_fold_accuracy": [
+        0.597222,
+        0.65625,
+        0.5,
+        0.375
+      ]
+    },
+    {
+      "name": "word_plus_cues_2",
+      "max_features": 5000,
+      "use_cues": true,
+      "cue_weight": 2.0,
+      "C": 1.0,
+      "cv_mean_accuracy": 1.0,
+      "cv_mean_macro_f1": 1.0,
+      "cv_fold_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "word_plus_cues_4",
+      "max_features": 5000,
+      "use_cues": true,
+      "cue_weight": 4.0,
+      "C": 1.0,
+      "cv_mean_accuracy": 1.0,
+      "cv_mean_macro_f1": 1.0,
+      "cv_fold_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "word_plus_cues_6",
+      "max_features": 5000,
+      "use_cues": true,
+      "cue_weight": 6.0,
+      "C": 1.0,
+      "cv_mean_accuracy": 1.0,
+      "cv_mean_macro_f1": 1.0,
+      "cv_fold_accuracy": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "selected_model": {
+    "name": "word_plus_cues_2",
+    "max_features": 5000,
+    "use_cues": true,
+    "cue_weight": 2.0,
+    "C": 1.0,
+    "cv_mean_accuracy": 1.0,
+    "cv_mean_macro_f1": 1.0,
+    "cv_fold_accuracy": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "accuracy": 0.9166666666666666,
+  "target_accuracy_0_80_met": true,
+  "classification_report": {
+    "browsing": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 40.0
+    },
+    "researching": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 32.0
+    },
+    "high_intent_inquiry": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 24.0
+    },
+    "accuracy": 0.9166666666666666,
+    "macro avg": {
+      "precision": 0.9166666666666666,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9047619047619048,
+      "support": 96.0
+    },
+    "weighted avg": {
+      "precision": 0.9375,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9166666666666666,
+      "support": 96.0
+    }
+  },
+  "confusion_labels": [
+    "browsing",
+    "researching",
+    "high_intent_inquiry"
+  ],
+  "confusion_matrix": [
+    [
+      40,
+      0,
+      0
+    ],
+    [
+      0,
+      24,
+      8
+    ],
+    [
+      0,
+      0,
+      24
+    ]
+  ],
+  "uncertain_count": 8,
+  "uncertainty_threshold": 0.6,
+  "warning": "All dataset queries are curated synthetic examples, not independently labeled real user queries. Template-disjoint evaluation limits exact template leakage but does not measure real-world generalization, actual buying intent, or probability calibration."
+}
